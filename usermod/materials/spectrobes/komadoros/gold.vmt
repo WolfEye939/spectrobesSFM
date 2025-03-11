@@ -1,0 +1,5 @@
+VertexLitGeneric {
+	$basetexture "spectrobes/komadoros/gold"
+	$model 1
+	$translucent 1
+}

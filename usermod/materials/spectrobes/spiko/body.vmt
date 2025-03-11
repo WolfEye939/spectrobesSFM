@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "spectrobes/Spiko/body"
+
+	"$model" "1"
+}

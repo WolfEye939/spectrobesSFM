@@ -1,0 +1,4 @@
+vertexlitgeneric {
+    $basetexture "spectrobes/spikan\eye_mask"
+    $model 1
+}

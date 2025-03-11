@@ -1,0 +1,4 @@
+VertexLitGeneric {
+	$basetexture "spectrobes/ryza/body"
+	$model 1
+}

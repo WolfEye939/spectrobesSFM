@@ -1,0 +1,5 @@
+VertexLitGeneric {
+	$basetexture "spectrobes/ryza/Armor"
+
+	$model 1
+}

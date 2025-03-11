@@ -1,0 +1,4 @@
+VertexLitGeneric {
+	$basetexture "spectrobes/komadoros/face"
+	$model 1
+}

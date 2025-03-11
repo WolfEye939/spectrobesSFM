@@ -1,0 +1,6 @@
+VertexLitGeneric {
+	$basetexture "spectrobes/leozar/Body"
+	$basetexture "spectrobes/leozar/body_nrm"
+
+	$model 1
+}

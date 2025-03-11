@@ -1,0 +1,4 @@
+VertexLitGeneric {
+	$basetexture "spectrobes/zaza\zaza"
+	$model "1"
+}

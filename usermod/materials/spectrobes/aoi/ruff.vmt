@@ -1,0 +1,4 @@
+VertexLitGeneric {
+	$basetexture "spectrobes/aoi/aoi_body"
+	$model 1
+}

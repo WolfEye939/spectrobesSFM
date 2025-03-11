@@ -1,0 +1,5 @@
+VertexLitGeneric {
+    $basetexture "spectrobes/Komainu\Komainu"
+
+    $model 1
+}

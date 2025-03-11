@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "spectrobes/aobasar/wing_1"
+	$model 1
+}

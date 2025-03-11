@@ -1,0 +1,8 @@
+VertexLitGeneric {
+    $basetexture "spectrobes/spikan\spikan"
+    $model 1
+
+//  $sss_enable 		1
+//  $sss_mask   	    0
+//  $sss_color		    [0.1 0 0 1]
+}
