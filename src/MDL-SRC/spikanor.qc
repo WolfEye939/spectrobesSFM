@@ -2,10 +2,7 @@
 
 $ModelName "spectrobes/creatures/Spikanor.mdl"
 
-$BodyGroup "studio"
-{
-	studio "Spikanor.smd"
-}
+$Body "body" "Spikanor.smd"
 
 
 $SurfaceProp "default"
@@ -27,8 +24,4 @@ $CBox 0 0 0 0 0 0
 $BBox -24.637 -25.994 -3.897 59.654 25.987 34.064
 
 
-/*
-$Sequence "ref" {
-	"spikanor_anims\ref.smd"
-
-}
+$sequence "idle" "spikanor.smd"
