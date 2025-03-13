@@ -2,7 +2,7 @@
 
 $ModelName "spectrobes/creatures/Shimanoto.mdl"
 
-$body "body" ".dmx"
+$body "body" "Shimanoto.smd"
 
 
 $SurfaceProp "default"
@@ -17,9 +17,5 @@ $CBox 0 0 0 0 0 0
 
 $BBox -21.495 -11.384 -0.016 20.368 11.384 27.208
 
+$sequence "idle" "Shimanoto.smd"
 
-/*
-$Sequence "REF" {
-	"shimanoto_anims\REF.smd"
-
-}
