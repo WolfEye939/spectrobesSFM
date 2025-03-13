@@ -1,11 +1,9 @@
 // Created by Crowbar 0.67
 
-$ModelName "spectrobes/Shimainu.mdl"
+$ModelName "spectrobes/creatures/Shimainu.mdl"
 
-$BodyGroup "Studio"
-{
-	studio "Shimainu.smd"
-}
+$body "body" "Shimainu.smd"
+
 $BodyGroup "Blink"
 {
 	blank
@@ -19,16 +17,11 @@ $Contents "solid"
 
 $IllumPosition 0 -2.353 17.733
 
-$CDMaterials "spectrobes\Shimainu\"
+$CDMaterials "models\spectrobes\creatures\Shimainu\"
 
 $CBox 0 0 0 0 0 0
 
 $BBox -21.471 -16.746 0 26.178 16.746 35.466
 
 
-$Sequence "REF" {
-	"shimainu_anims\REF.smd"
-	fadein 0.2
-	fadeout 0.2
-	fps 30
-}
+$sequence "idle" "Shimainu.smd"

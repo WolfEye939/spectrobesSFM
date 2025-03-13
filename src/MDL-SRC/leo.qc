@@ -1,11 +1,10 @@
 // Created by Crowbar 0.67
 
-$ModelName "spectrobes/Leo.mdl"
+$ModelName "spectrobes/creatures/Leo.mdl"
 
-$BodyGroup "studio"
-{
-	studio "Leo.smd"
-}
+$body "body" "Leo.smd"
+
+
 $BodyGroup "Blink"
 {
 	blank
@@ -19,7 +18,7 @@ $Contents "solid"
 
 $IllumPosition 0 -0.321 4.612
 
-$CDMaterials "spectrobes\Leo\"
+$CDMaterials "models\spectrobes\creatures\Leo\"
 
 $TextureGroup "skinfamilies"
 {
@@ -32,9 +31,4 @@ $CBox 0 0 0 0 0 0
 $BBox -4.545 -2.069 -0.01 5.186 2.069 9.234
 
 
-$Sequence "REF" {
-	"leo_anims\REF.smd"
-	fadein 0.2
-	fadeout 0.2
-	fps 30
-}
+$sequence "idle" "Leo.smd"

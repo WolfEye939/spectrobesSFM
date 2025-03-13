@@ -1,6 +1,6 @@
 // Created by Crowbar 0.67
 
-$ModelName "spectrobes/spikan.mdl"
+$ModelName "spectrobes/creatures/spikan.mdl"
 
 $BodyGroup "studio"
 {
@@ -14,7 +14,7 @@ $Contents "solid"
 
 $IllumPosition 0 -14.271 12.389
 
-$CDMaterials "spectrobes\spikan\"
+$CDMaterials "models\spectrobes\creatures\spikan\"
 
 $Attachment "forward" "ValveBiped.forward" 0 0 0 rotate 0 0 0
 
@@ -106,25 +106,22 @@ $JiggleBone "mane"
 
 $SectionFrames 30 350
 
+/*
 $Sequence "REF" {
 	"spikan_anims\REF.smd"
-	fadein 0.2
-	fadeout 0.2
-	fps 30
+
 }
 
+/*
 $Sequence "idle" {
 	"spikan_anims\idle.smd"
-	fadein 0.2
-	fadeout 0.2
-	fps 30
+
 }
 
+/*
 $Sequence "tailswing" {
 	"spikan_anims\tailswing.smd"
-	fadein 0.2
-	fadeout 0.2
-	fps 30
+
 	loop
 }
 

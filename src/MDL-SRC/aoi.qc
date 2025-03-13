@@ -1,11 +1,9 @@
 // Created by Crowbar 0.67
 
-$ModelName "spectrobes/Aoi.mdl"
+$ModelName "spectrobes/creatures/Aoi.mdl"
 
-$BodyGroup "studio"
-{
-	studio "aoi.smd"
-}
+$body "body" "aoi.smd"
+
 $BodyGroup "blink"
 {
 	blank
@@ -19,16 +17,11 @@ $Contents "solid"
 
 $IllumPosition 0 -0.12 0.349
 
-$CDMaterials "spectrobes\aoi\"
+$CDMaterials "models\spectrobes\creatures\aoi\"
 
 $CBox 0 0 0 0 0 0
 
 $BBox -4.905 -6.99 -0.087 6.103 6.99 3.576
 
 
-$Sequence "REF" {
-	"aoi_anims\REF.smd"
-	fadein 0.2
-	fadeout 0.2
-	fps 30
-}
+$sequence "idle" "aoi.smd"

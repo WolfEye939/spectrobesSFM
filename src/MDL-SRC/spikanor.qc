@@ -1,6 +1,6 @@
 // Created by Crowbar 0.67
 
-$ModelName "spectrobes/Spikanor.mdl"
+$ModelName "spectrobes/creatures/Spikanor.mdl"
 
 $BodyGroup "studio"
 {
@@ -14,7 +14,7 @@ $Contents "solid"
 
 $IllumPosition 0 -17.509 15.086
 
-$CDMaterials "spectrobes\Spikanor\"
+$CDMaterials "models\spectrobes\creatures\Spikanor\"
 
 $TextureGroup "skinfamilies"
 {
@@ -27,9 +27,8 @@ $CBox 0 0 0 0 0 0
 $BBox -24.637 -25.994 -3.897 59.654 25.987 34.064
 
 
+/*
 $Sequence "ref" {
 	"spikanor_anims\ref.smd"
-	fadein 0.2
-	fadeout 0.2
-	fps 30
+
 }

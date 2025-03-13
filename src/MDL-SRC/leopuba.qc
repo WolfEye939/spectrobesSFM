@@ -1,11 +1,8 @@
 // Created by Crowbar 0.67
 
-$ModelName "spectrobes/Leopuba.mdl"
+$ModelName "spectrobes/creatures/Leopuba.mdl"
 
-$BodyGroup "studio"
-{
-	studio "Leopuba.smd"
-}
+$body "body" "leopuba.smd"
 
 
 $SurfaceProp "default"
@@ -14,7 +11,7 @@ $Contents "solid"
 
 $IllumPosition 0 0.784 12.377
 
-$CDMaterials "spectrobes\Leopuba\"
+$CDMaterials "models\spectrobes\creatures\Leopuba\"
 
 $TextureGroup "skinfamilies"
 {
@@ -27,9 +24,4 @@ $CBox 0 0 0 0 0 0
 $BBox -17.749 -4.402 -0.031 16.181 4.402 24.786
 
 
-$Sequence "REF" {
-	"leopuba_anims\REF.smd"
-	fadein 0.2
-	fadeout 0.2
-	fps 30
-}
+$sequence "idle" "Leopuba.smd"
