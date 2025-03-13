@@ -2,10 +2,7 @@
 
 $ModelName "spectrobes/creatures/spikan.mdl"
 
-$BodyGroup "studio"
-{
-	studio "spikan.smd"
-}
+$Body "body" "spikan.smd"
 
 
 $SurfaceProp "flesh"
@@ -16,12 +13,20 @@ $IllumPosition 0 -14.271 12.389
 
 $CDMaterials "models\spectrobes\creatures\spikan\"
 
-$Attachment "forward" "ValveBiped.forward" 0 0 0 rotate 0 0 0
+// $Attachment "forward" "ValveBiped.forward" 0 0 0 rotate 0 0 0
 
 $CBox 0 0 0 0 0 0
 
 $BBox -26.414 -22.78 -3.659 36.311 22.781 24.779
 
+//===============================
+// Jigglebones are automatically 
+// enforced and hidden when ragdoll 
+// addons are used so this will be
+// ignored for now
+//===============================
+
+/*
 $JiggleBone "j_sippo_A"
 {
 	is_rigid
@@ -103,8 +108,12 @@ $JiggleBone "mane"
 		angle_constraint 60.000002
 	}
 }
+*/
 
-$SectionFrames 30 350
+// Dafuq is this?!!
+// $SectionFrames 30 350
+
+$sequence "idle" "Spikan.smd"
 
 /*
 $Sequence "REF" {
@@ -112,13 +121,13 @@ $Sequence "REF" {
 
 }
 
-/*
+
 $Sequence "idle" {
 	"spikan_anims\idle.smd"
 
 }
 
-/*
+
 $Sequence "tailswing" {
 	"spikan_anims\tailswing.smd"
 
@@ -132,5 +141,5 @@ $CollisionModel "spikan_physics.smd"
 	$damping 0
 	$rotdamping 0
 	$rootbone "j_sippo_a"
-
 }
+*/
