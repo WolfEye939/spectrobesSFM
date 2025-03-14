@@ -2,10 +2,7 @@
 
 $ModelName "spectrobes/creatures/Zazane.mdl"
 
-$BodyGroup "studio"
-{
-	studio "Zazane.smd"
-}
+$Body "Body" "Zazane.smd"
 
 
 $SurfaceProp "default"
@@ -21,9 +18,5 @@ $CBox 0 0 0 0 0 0
 $BBox -77.144 -17.695 -0.165 39.365 17.695 54.685
 
 
-/*
-$Sequence "REF" {
-	"zazane_anims\REF.smd"
-	activity "ACT_IDLE" 1
 
-}
+$Sequence "idle" "zazane.smd"
