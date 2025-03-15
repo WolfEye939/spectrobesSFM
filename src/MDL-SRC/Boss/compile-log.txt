@@ -1,0 +1,453 @@
+// Created by Crowbar 0.67
+
+  Compiling ".\Darkroe.QC" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Darkroe.QC"
+      Building binary model files...
+      Working on "Darkroe.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Darkroe.dmx
+      ERROR: Too many bone influences per vertex!
+      ERROR: Aborted Processing on 'Spectrobes/Boss/Darkroe.mdl'
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\spectrobes\boss".
+  ... Compiling ".\Darkroe.QC" finished. Check above for any errors.
+
+  Compiling ".\Drilzon.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Drilzon.qc"
+      Building binary model files...
+      Working on "Drilzon.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Drilzon.dmx
+      Processing LOD for material: B001_core
+      Processing LOD for material: B001_001
+      Processing LOD for material: B001_002
+      Processing LOD for material: B001_003
+      Processing LOD for material: B001_004
+      Processing LOD for material: B001_007
+      Processing LOD for material: B001_007_fur_fur
+      Processing LOD for material: B001_008
+      Processing LOD for material: B001_005_fur
+      Processing LOD for material: B001_006
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Drilzon.mdl:
+      bones        15048 bytes (54)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      432 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       668 bytes
+      keyvalues        0 bytes
+      bone transforms     7408 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        25728
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Drilzon.vvd:
+      vertices    288720 bytes (6015 vertices)
+      tangents     96240 bytes (6015 vertices)
+      total       385024 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Drilzon.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           350 bytes
+      verts:          54135 bytes
+      indices:        39528 bytes
+      bone changes:     888 bytes
+      everything:     95385 bytes
+      
+      Completed "Drilzon.qc"
+  ... Compiling ".\Drilzon.qc" finished. Check above for any errors.
+
+  Compiling ".\Electrox.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Electrox.qc"
+      Building binary model files...
+      Working on "Electrox.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Electrox.dmx
+      Processing LOD for material: B004_core
+      Processing LOD for material: B004_005
+      Processing LOD for material: B004_004
+      Processing LOD for material: B004_002
+      Processing LOD for material: B004_003
+      Processing LOD for material: B004_001
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Electrox.mdl:
+      bones        11736 bytes (40)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      376 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       404 bytes
+      keyvalues        0 bytes
+      bone transforms     5504 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        19548
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Electrox.vvd:
+      vertices    265632 bytes (5534 vertices)
+      tangents     88544 bytes (5534 vertices)
+      total       354240 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Electrox.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          49806 bytes
+      indices:        42636 bytes
+      bone changes:     568 bytes
+      everything:     93536 bytes
+      
+      Completed "Electrox.qc"
+  ... Compiling ".\Electrox.qc" finished. Check above for any errors.
+
+  Compiling ".\Gafing.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Gafing.qc"
+      Building binary model files...
+      Working on "Gafing.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Gafing.dmx
+      Processing LOD for material: B006_core
+      Processing LOD for material: B006_claw
+      Processing LOD for material: B006_body
+      Processing LOD for material: B006_wing
+      Processing LOD for material: B006_chlor
+      Processing LOD for material: B006_leg
+      Processing LOD for material: B006_stone
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Gafing.mdl:
+      bones        17248 bytes (61)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      460 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       472 bytes
+      keyvalues        0 bytes
+      bone transforms     8360 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        28368
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Gafing.vvd:
+      vertices    305760 bytes (6370 vertices)
+      tangents    101920 bytes (6370 vertices)
+      total       407744 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Gafing.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     231 bytes
+      strips:           245 bytes
+      verts:          57330 bytes
+      indices:        43476 bytes
+      bone changes:     920 bytes
+      everything:    102329 bytes
+      
+      Completed "Gafing.qc"
+  ... Compiling ".\Gafing.qc" finished. Check above for any errors.
+
+  Compiling ".\Galgore.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Galgore.qc"
+      Building binary model files...
+      Working on "Galgore.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Galgore.dmx
+      Processing LOD for material: B000_core
+      Processing LOD for material: B000_5
+      Processing LOD for material: B000_1
+      Processing LOD for material: B000_2
+      Processing LOD for material: B000_3
+      Processing LOD for material: B000_4
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/boss/Galgore.mdl:
+      bones         8900 bytes (31)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      340 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       404 bytes
+      keyvalues        0 bytes
+      bone transforms     4280 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        15292
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/boss/Galgore.vvd:
+      vertices    190800 bytes (3975 vertices)
+      tangents     63600 bytes (3975 vertices)
+      total       254464 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/boss/Galgore.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          35775 bytes
+      indices:        28800 bytes
+      bone changes:     400 bytes
+      everything:     65501 bytes
+      
+      Completed "Galgore.qc"
+  ... Compiling ".\Galgore.qc" finished. Check above for any errors.
+
+  Compiling ".\Gigardos.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Gigardos.qc"
+      Building binary model files...
+      Working on "Gigardos.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Gigardos.dmx
+      Processing LOD for material: b002_shield
+      Processing LOD for material: b002_leg_F
+      Processing LOD for material: b002_leg_B
+      Processing LOD for material: b002_face
+      Processing LOD for material: b002_ice
+      Processing LOD for material: b002_neck
+      Processing LOD for material: b002_body
+      Processing LOD for material: b002_core
+      Processing LOD for material: b002_face1
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Gigardos.mdl:
+      bones        18548 bytes (67)
+         animation       x       y       ips    angle
+      animations     144 bytes (1 anims) (1 frames) [0:00]
+      sequences      484 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       604 bytes
+      keyvalues        0 bytes
+      bone transforms     9176 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        30976
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Gigardos.vvd:
+      vertices    309072 bytes (6439 vertices)
+      tangents    103024 bytes (6439 vertices)
+      total       412160 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Gigardos.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          57951 bytes
+      indices:        43416 bytes
+      bone changes:     840 bytes
+      everything:    102964 bytes
+      
+      Completed "Gigardos.qc"
+  ... Compiling ".\Gigardos.qc" finished. Check above for any errors.
+
+  Compiling ".\Jado.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Jado.qc"
+      Building binary model files...
+      Working on "Jado.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Jado.dmx
+      Processing LOD for material: B008_06
+      Processing LOD for material: B008_01
+      Processing LOD for material: B008_02
+      Processing LOD for material: B008_03
+      Processing LOD for material: B008_04
+      Processing LOD for material: B008_05
+      Processing LOD for material: B008_02_b
+      Processing LOD for material: B008_06_b
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Jado.mdl:
+      bones        28872 bytes (108)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      648 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       536 bytes
+      keyvalues        0 bytes
+      bone transforms    14752 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        47336
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Jado.vvd:
+      vertices    323664 bytes (6743 vertices)
+      tangents    107888 bytes (6743 vertices)
+      total       431616 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Jado.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            72 bytes
+      strip groups:     264 bytes
+      strips:           280 bytes
+      verts:          60687 bytes
+      indices:        46680 bytes
+      bone changes:    1256 bytes
+      everything:    109303 bytes
+      
+      Completed "Jado.qc"
+  ... Compiling ".\Jado.qc" finished. Check above for any errors.
+
+  Compiling ".\Krux.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Krux.qc"
+      Building binary model files...
+      Working on "Krux.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Krux.dmx
+      ERROR: Too many bone influences per vertex!
+      ERROR: Aborted Processing on 'Spectrobes/Boss/Krux.mdl'
+  ... Compiling ".\Krux.qc" finished. Check above for any errors.
+
+  Compiling ".\Terragan.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Terragan.qc"
+      Building binary model files...
+      Working on "Terragan.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Terragan.dmx
+      ERROR: Too many bone influences per vertex!
+      ERROR: Aborted Processing on 'Spectrobes/Boss/Terragan.mdl'
+  ... Compiling ".\Terragan.qc" finished. Check above for any errors.
+
+  Compiling ".\Zabacraw.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Zabacraw.qc"
+      Building binary model files...
+      Working on "Zabacraw.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Zabacraw.dmx
+      WARNING: DmeMesh[B003Mesh]: Non-Unit Length Normal [1220] < 0.000000 0.000000 0.000000 >
+      WARNING: DmeMesh[B003Mesh]: Non-Unit Length Normal Repeated 4 Times
+      Processing LOD for material: B003_05
+      Processing LOD for material: B003_01
+      Processing LOD for material: B003_02
+      Processing LOD for material: B003_03
+      Processing LOD for material: B003_04
+      Processing LOD for material: B003_core
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Zabacraw.mdl:
+      bones         6960 bytes (23)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      308 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       404 bytes
+      keyvalues        0 bytes
+      bone transforms     3192 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        12216
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Zabacraw.vvd:
+      vertices    253968 bytes (5291 vertices)
+      tangents     84656 bytes (5291 vertices)
+      total       338688 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Zabacraw.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          47619 bytes
+      indices:        42606 bytes
+      bone changes:     424 bytes
+      everything:     91175 bytes
+      
+      Completed "Zabacraw.qc"
+  ... Compiling ".\Zabacraw.qc" finished. Check above for any errors.
+
+  Compiling ".\Zabatar.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "Zabatar.qc"
+      Building binary model files...
+      Working on "Zabatar.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Zabatar.dmx
+      Processing LOD for material: B011_02_b
+      Processing LOD for material: B011_01
+      Processing LOD for material: B011_02
+      Processing LOD for material: B011_03
+      Processing LOD for material: B011_04
+      Processing LOD for material: B011_05
+      Processing LOD for material: B011_06
+      Processing LOD for material: B011_02_c
+      Processing LOD for material: B011_05_b
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Zabatar.mdl:
+      bones        16040 bytes (57)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      444 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       604 bytes
+      keyvalues        0 bytes
+      bone transforms     7816 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        26940
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Zabatar.vvd:
+      vertices    187296 bytes (3902 vertices)
+      tangents     62432 bytes (3902 vertices)
+      total       249792 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/Spectrobes/Boss/Zabatar.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          35118 bytes
+      indices:        36588 bytes
+      bone changes:     688 bytes
+      everything:     73151 bytes
+      
+      Completed "Zabatar.qc"
+  ... Compiling ".\Zabatar.qc" finished. Check above for any errors.
