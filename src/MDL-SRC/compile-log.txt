@@ -1054,7 +1054,7 @@
       bone transforms     4144 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        13940
+      total        13952
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komainu.vvd:
       vertices    106128 bytes (2211 vertices)

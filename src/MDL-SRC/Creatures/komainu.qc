@@ -11,7 +11,7 @@ $Contents "solid"
 
 $IllumPosition 0 2.479 6.835
 
-$CDMaterials "models\spectrobes\Komainu\"
+$CDMaterials "models\spectrobes\creatures\Komainu\"
 
 $TextureGroup "skinfamilies"
 {
