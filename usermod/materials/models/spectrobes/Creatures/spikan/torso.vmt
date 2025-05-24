@@ -1,4 +1,4 @@
 VertexlitGeneric
 {
-	$basetexture "spectrobes/spikan/torso"
+	$basetexture "models/spectrobes/creatures/spikan/torso"
 }

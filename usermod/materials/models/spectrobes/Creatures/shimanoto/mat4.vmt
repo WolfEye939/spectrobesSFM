@@ -1,4 +1,4 @@
 VertexLitGeneric
 {
-	$basetexture "spectrobes/Shimanoto/Mat4"
+	$basetexture "models/spectrobes/creatures/Shimanoto/Mat4"
 }

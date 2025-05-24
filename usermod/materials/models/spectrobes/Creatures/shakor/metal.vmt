@@ -1,5 +1,5 @@
 VertexLitGeneric
 {
-	$basetexture "spectrobes/Shakor/Metal"
+	$basetexture "models/spectrobes/creatures/Shakor/Metal"
 
 }

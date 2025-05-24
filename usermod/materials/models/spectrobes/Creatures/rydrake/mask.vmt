@@ -1,4 +1,4 @@
 VertexLitGeneric
 {
-	$basetexture "spectrobes/Rydrake/Mask"
+	$basetexture "models/spectrobes/creatures/Rydrake/Mask"
 }

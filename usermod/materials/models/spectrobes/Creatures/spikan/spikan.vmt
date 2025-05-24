@@ -1,5 +1,5 @@
 VertexLitGeneric {
-    $basetexture "spectrobes/spikan\spikan"
+    $basetexture "models/spectrobes/creatures/spikan\spikan"
     $model 1
 
 //  $sss_enable 		1

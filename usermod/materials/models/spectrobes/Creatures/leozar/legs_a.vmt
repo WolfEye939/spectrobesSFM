@@ -1,5 +1,5 @@
 VertexLitGeneric {
-	$basetexture "spectrobes/leozar/Legs_A"
+	$basetexture "models/spectrobes/creatures/leozar/Legs_A"
 	$bumpmap "leozar/Legs_nrm"
 
 	$model 1

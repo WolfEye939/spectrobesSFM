@@ -1,4 +1,4 @@
 VertexLitGeneric
 {
-	$basetexture "spectrobes/Spikanor/phongA"
+	$basetexture "models/spectrobes/creatures/Spikanor/phongA"
 }

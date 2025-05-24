@@ -1,5 +1,5 @@
 VertexLitGeneric {
-	$basetexture "spectrobes/ryza/Armor"
+	$basetexture "models/spectrobes/creatures/ryza/Armor"
 
 	$model 1
 }

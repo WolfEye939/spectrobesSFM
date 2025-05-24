@@ -1,4 +1,4 @@
 VertexLitGeneric {
-	$basetexture	"spectrobes\Hikolossa/S002C_05"
+	$basetexture	"models/spectrobes/Creatures/\Hikolossa/S002C_05"
 	$model 1
 }
