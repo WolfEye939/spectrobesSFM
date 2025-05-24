@@ -1,0 +1,2064 @@
+// Created by Crowbar 0.67
+
+  Compiling "Boss\Darkroe.QC" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Darkroe.QC"
+      Building binary model files...
+      Working on "Darkroe.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Darkroe.dmx
+      ERROR: Too many bone influences per vertex!
+      ERROR: Aborted Processing on 'Spectrobes/Boss/Darkroe.mdl'
+  ... Compiling "Boss\Darkroe.QC" finished. Check above for any errors.
+
+  Compiling "Boss\Drilzon.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Drilzon.qc"
+      Building binary model files...
+      Working on "Drilzon.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Drilzon.dmx
+      Processing LOD for material: B001_core
+      Processing LOD for material: B001_001
+      Processing LOD for material: B001_002
+      Processing LOD for material: B001_003
+      Processing LOD for material: B001_004
+      Processing LOD for material: B001_007
+      Processing LOD for material: B001_007_fur_fur
+      Processing LOD for material: B001_008
+      Processing LOD for material: B001_005_fur
+      Processing LOD for material: B001_006
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Drilzon.mdl:
+      bones        15048 bytes (54)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      432 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       668 bytes
+      keyvalues        0 bytes
+      bone transforms     7408 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        25728
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Drilzon.vvd:
+      vertices    288720 bytes (6015 vertices)
+      tangents     96240 bytes (6015 vertices)
+      total       385024 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Drilzon.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           350 bytes
+      verts:          54135 bytes
+      indices:        39528 bytes
+      bone changes:       8 bytes
+      everything:     94505 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Drilzon.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           455 bytes
+      verts:          54387 bytes
+      indices:        39528 bytes
+      bone changes:     944 bytes
+      everything:     95798 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Drilzon.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           350 bytes
+      verts:          54135 bytes
+      indices:        39528 bytes
+      bone changes:     888 bytes
+      everything:     95385 bytes
+      
+      Completed "Drilzon.qc"
+  ... Compiling "Boss\Drilzon.qc" finished. Check above for any errors.
+
+  Compiling "Boss\Electrox.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Electrox.qc"
+      Building binary model files...
+      Working on "Electrox.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Electrox.dmx
+      Processing LOD for material: B004_core
+      Processing LOD for material: B004_005
+      Processing LOD for material: B004_004
+      Processing LOD for material: B004_002
+      Processing LOD for material: B004_003
+      Processing LOD for material: B004_001
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Electrox.mdl:
+      bones        11736 bytes (40)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      376 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       404 bytes
+      keyvalues        0 bytes
+      bone transforms     5504 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        19548
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Electrox.vvd:
+      vertices    265632 bytes (5534 vertices)
+      tangents     88544 bytes (5534 vertices)
+      total       354240 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Electrox.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          49806 bytes
+      indices:        42636 bytes
+      bone changes:       8 bytes
+      everything:     92976 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Electrox.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           245 bytes
+      verts:          50103 bytes
+      indices:        42636 bytes
+      bone changes:     608 bytes
+      everything:     93908 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Electrox.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          49806 bytes
+      indices:        42636 bytes
+      bone changes:     568 bytes
+      everything:     93536 bytes
+      
+      Completed "Electrox.qc"
+  ... Compiling "Boss\Electrox.qc" finished. Check above for any errors.
+
+  Compiling "Boss\Gafing.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Gafing.qc"
+      Building binary model files...
+      Working on "Gafing.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Gafing.dmx
+      Processing LOD for material: B006_core
+      Processing LOD for material: B006_claw
+      Processing LOD for material: B006_body
+      Processing LOD for material: B006_wing
+      Processing LOD for material: B006_chlor
+      Processing LOD for material: B006_leg
+      Processing LOD for material: B006_stone
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.mdl:
+      bones        17248 bytes (61)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      460 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       472 bytes
+      keyvalues        0 bytes
+      bone transforms     8360 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        28368
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.vvd:
+      vertices    305760 bytes (6370 vertices)
+      tangents    101920 bytes (6370 vertices)
+      total       407744 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     231 bytes
+      strips:           245 bytes
+      verts:          57330 bytes
+      indices:        43476 bytes
+      bone changes:       8 bytes
+      everything:    101417 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     231 bytes
+      strips:           385 bytes
+      verts:          57897 bytes
+      indices:        43476 bytes
+      bone changes:    1016 bytes
+      everything:    103132 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     231 bytes
+      strips:           245 bytes
+      verts:          57330 bytes
+      indices:        43476 bytes
+      bone changes:     920 bytes
+      everything:    102329 bytes
+      
+      Completed "Gafing.qc"
+  ... Compiling "Boss\Gafing.qc" finished. Check above for any errors.
+
+  Compiling "Boss\Galgore.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Galgore.qc"
+      Building binary model files...
+      Working on "Galgore.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Galgore.dmx
+      Processing LOD for material: B000_core
+      Processing LOD for material: B000_5
+      Processing LOD for material: B000_1
+      Processing LOD for material: B000_2
+      Processing LOD for material: B000_3
+      Processing LOD for material: B000_4
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/boss/Galgore.mdl:
+      bones         8900 bytes (31)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      340 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       404 bytes
+      keyvalues        0 bytes
+      bone transforms     4280 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        15292
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/boss/Galgore.vvd:
+      vertices    190800 bytes (3975 vertices)
+      tangents     63600 bytes (3975 vertices)
+      total       254464 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/boss/Galgore.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          35775 bytes
+      indices:        28800 bytes
+      bone changes:       8 bytes
+      everything:     65109 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/boss/Galgore.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          35775 bytes
+      indices:        28800 bytes
+      bone changes:     400 bytes
+      everything:     65501 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/boss/Galgore.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          35775 bytes
+      indices:        28800 bytes
+      bone changes:     400 bytes
+      everything:     65501 bytes
+      
+      Completed "Galgore.qc"
+  ... Compiling "Boss\Galgore.qc" finished. Check above for any errors.
+
+  Compiling "Boss\Gigardos.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Gigardos.qc"
+      Building binary model files...
+      Working on "Gigardos.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Gigardos.dmx
+      Processing LOD for material: b002_shield
+      Processing LOD for material: b002_leg_F
+      Processing LOD for material: b002_leg_B
+      Processing LOD for material: b002_face
+      Processing LOD for material: b002_ice
+      Processing LOD for material: b002_neck
+      Processing LOD for material: b002_body
+      Processing LOD for material: b002_core
+      Processing LOD for material: b002_face1
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gigardos.mdl:
+      bones        18548 bytes (67)
+         animation       x       y       ips    angle
+      animations     144 bytes (1 anims) (1 frames) [0:00]
+      sequences      484 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       604 bytes
+      keyvalues        0 bytes
+      bone transforms     9176 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        30976
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gigardos.vvd:
+      vertices    309072 bytes (6439 vertices)
+      tangents    103024 bytes (6439 vertices)
+      total       412160 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gigardos.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          57951 bytes
+      indices:        43416 bytes
+      bone changes:       8 bytes
+      everything:    102132 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gigardos.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           385 bytes
+      verts:          58383 bytes
+      indices:        43416 bytes
+      bone changes:     880 bytes
+      everything:    103506 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gigardos.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          57951 bytes
+      indices:        43416 bytes
+      bone changes:     840 bytes
+      everything:    102964 bytes
+      
+      Completed "Gigardos.qc"
+  ... Compiling "Boss\Gigardos.qc" finished. Check above for any errors.
+
+  Compiling "Boss\Jado.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Jado.qc"
+      Building binary model files...
+      Working on "Jado.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Jado.dmx
+      Processing LOD for material: B008_06
+      Processing LOD for material: B008_01
+      Processing LOD for material: B008_02
+      Processing LOD for material: B008_03
+      Processing LOD for material: B008_04
+      Processing LOD for material: B008_05
+      Processing LOD for material: B008_02_b
+      Processing LOD for material: B008_06_b
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Jado.mdl:
+      bones        28872 bytes (108)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      648 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       536 bytes
+      keyvalues        0 bytes
+      bone transforms    14752 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        47336
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Jado.vvd:
+      vertices    323664 bytes (6743 vertices)
+      tangents    107888 bytes (6743 vertices)
+      total       431616 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Jado.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            72 bytes
+      strip groups:     264 bytes
+      strips:           280 bytes
+      verts:          60687 bytes
+      indices:        46680 bytes
+      bone changes:       8 bytes
+      everything:    108055 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Jado.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            72 bytes
+      strip groups:     264 bytes
+      strips:           560 bytes
+      verts:          61524 bytes
+      indices:        46680 bytes
+      bone changes:    1416 bytes
+      everything:    110580 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Jado.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            72 bytes
+      strip groups:     264 bytes
+      strips:           280 bytes
+      verts:          60687 bytes
+      indices:        46680 bytes
+      bone changes:    1256 bytes
+      everything:    109303 bytes
+      
+      Completed "Jado.qc"
+  ... Compiling "Boss\Jado.qc" finished. Check above for any errors.
+
+  Compiling "Boss\Krux.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Krux.qc"
+      Building binary model files...
+      Working on "Krux.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Krux.dmx
+      ERROR: Too many bone influences per vertex!
+      ERROR: Aborted Processing on 'Spectrobes/Boss/Krux.mdl'
+  ... Compiling "Boss\Krux.qc" finished. Check above for any errors.
+
+  Compiling "Boss\Terragan.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Terragan.qc"
+      Building binary model files...
+      Working on "Terragan.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Terragan.dmx
+      ERROR: Too many bone influences per vertex!
+      ERROR: Aborted Processing on 'Spectrobes/Boss/Terragan.mdl'
+  ... Compiling "Boss\Terragan.qc" finished. Check above for any errors.
+
+  Compiling "Boss\Zabacraw.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Zabacraw.qc"
+      Building binary model files...
+      Working on "Zabacraw.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Zabacraw.dmx
+      WARNING: DmeMesh[B003Mesh]: Non-Unit Length Normal [1220] < 0.000000 0.000000 0.000000 >
+      WARNING: DmeMesh[B003Mesh]: Non-Unit Length Normal Repeated 4 Times
+      Processing LOD for material: B003_05
+      Processing LOD for material: B003_01
+      Processing LOD for material: B003_02
+      Processing LOD for material: B003_03
+      Processing LOD for material: B003_04
+      Processing LOD for material: B003_core
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabacraw.mdl:
+      bones         6960 bytes (23)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      308 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       404 bytes
+      keyvalues        0 bytes
+      bone transforms     3192 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        12216
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabacraw.vvd:
+      vertices    253968 bytes (5291 vertices)
+      tangents     84656 bytes (5291 vertices)
+      total       338688 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabacraw.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          47619 bytes
+      indices:        42606 bytes
+      bone changes:       8 bytes
+      everything:     90759 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabacraw.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          47619 bytes
+      indices:        42606 bytes
+      bone changes:     424 bytes
+      everything:     91175 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabacraw.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          47619 bytes
+      indices:        42606 bytes
+      bone changes:     424 bytes
+      everything:     91175 bytes
+      
+      Completed "Zabacraw.qc"
+  ... Compiling "Boss\Zabacraw.qc" finished. Check above for any errors.
+
+  Compiling "Boss\Zabatar.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Zabatar.qc"
+      Building binary model files...
+      Working on "Zabatar.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Zabatar.dmx
+      Processing LOD for material: B011_02_b
+      Processing LOD for material: B011_01
+      Processing LOD for material: B011_02
+      Processing LOD for material: B011_03
+      Processing LOD for material: B011_04
+      Processing LOD for material: B011_05
+      Processing LOD for material: B011_06
+      Processing LOD for material: B011_02_c
+      Processing LOD for material: B011_05_b
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabatar.mdl:
+      bones        16040 bytes (57)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      444 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       604 bytes
+      keyvalues        0 bytes
+      bone transforms     7816 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        26940
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabatar.vvd:
+      vertices    187296 bytes (3902 vertices)
+      tangents     62432 bytes (3902 vertices)
+      total       249792 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabatar.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          35118 bytes
+      indices:        36588 bytes
+      bone changes:       8 bytes
+      everything:     72471 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabatar.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           385 bytes
+      verts:          35883 bytes
+      indices:        36588 bytes
+      bone changes:     792 bytes
+      everything:     74090 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabatar.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          35118 bytes
+      indices:        36588 bytes
+      bone changes:     688 bytes
+      everything:     73151 bytes
+      
+      Completed "Zabatar.qc"
+  ... Compiling "Boss\Zabatar.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\aoba.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "aoba.qc"
+      Building binary model files...
+      Working on "aoba.qc"
+      SMD MODEL Aoba.smd
+      ERROR: model has no sequences
+      ERROR: Aborted Processing on 'spectrobes/creatures/Aoba.mdl'
+  ... Compiling "Creatures\aoba.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\aobasar.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "aobasar.qc"
+      Building binary model files...
+      Working on "aobasar.qc"
+      SMD MODEL aobasar.smd
+      Processing LOD for material: aobasar
+      Processing LOD for material: wing_1
+      Processing LOD for material: blue_metal
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/aobasar.mdl:
+      bones        17544 bytes (63)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      468 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       204 bytes
+      keyvalues        0 bytes
+      bone transforms     8632 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        28260
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/aobasar.vvd:
+      vertices    213072 bytes (4439 vertices)
+      tangents     71024 bytes (4439 vertices)
+      total       284160 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/aobasar.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          39951 bytes
+      indices:        32784 bytes
+      bone changes:       8 bytes
+      everything:     73038 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/aobasar.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           350 bytes
+      verts:          41940 bytes
+      indices:        32784 bytes
+      bone changes:    1048 bytes
+      everything:     76312 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/aobasar.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           140 bytes
+      verts:          40221 bytes
+      indices:        32784 bytes
+      bone changes:     800 bytes
+      everything:     74135 bytes
+      
+      Completed "aobasar.qc"
+  ... Compiling "Creatures\aobasar.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\aoi.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "aoi.qc"
+      Building binary model files...
+      Working on "aoi.qc"
+      SMD MODEL aoi.smd
+      SMD MODEL aoi_Lids.smd
+      Processing LOD for material: Body
+      Processing LOD for material: Ruff
+      Processing LOD for material: Body
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Aoi.mdl:
+      bones         4056 bytes (14)
+         animation       x       y       ips    angle
+      animations     132 bytes (1 anims) (1 frames) [0:00]
+      sequences      272 bytes (1 seq) 
+      ik/pose        476 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       136 bytes
+      keyvalues        0 bytes
+      bone transforms     1968 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total         7608
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Aoi.vvd:
+      vertices     74544 bytes (1553 vertices)
+      vertices      2016 bytes (42 vertices)
+      tangents     24848 bytes (1553 vertices)
+      tangents       672 bytes (42 vertices)
+      total       102144 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Aoi.sw.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          14355 bytes
+      indices:        15180 bytes
+      bone changes:       8 bytes
+      everything:     29886 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Aoi.dx80.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          14355 bytes
+      indices:        15180 bytes
+      bone changes:     144 bytes
+      everything:     30022 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Aoi.dx90.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          14355 bytes
+      indices:        15180 bytes
+      bone changes:     144 bytes
+      everything:     30022 bytes
+      
+      Completed "aoi.qc"
+  ... Compiling "Creatures\aoi.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\Gokazoa.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Gokazoa.qc"
+      Building binary model files...
+      Working on "Gokazoa.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Gokazoa.dmx
+      Processing LOD for material: S012C_3
+      Processing LOD for material: S012C_5
+      Processing LOD for material: S012C_1
+      Processing LOD for material: S012C_2
+      Processing LOD for material: S012C_4
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Gokazoa.mdl:
+      bones        14084 bytes (53)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      428 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       340 bytes
+      keyvalues        0 bytes
+      bone transforms     7272 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        23668
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Gokazoa.vvd:
+      vertices    217776 bytes (4537 vertices)
+      tangents     72592 bytes (4537 vertices)
+      total       290432 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Gokazoa.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           175 bytes
+      verts:          40833 bytes
+      indices:        22410 bytes
+      bone changes:       8 bytes
+      everything:     63700 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Gokazoa.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           245 bytes
+      verts:          41247 bytes
+      indices:        22410 bytes
+      bone changes:     544 bytes
+      everything:     64720 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Gokazoa.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           175 bytes
+      verts:          40833 bytes
+      indices:        22410 bytes
+      bone changes:     512 bytes
+      everything:     64204 bytes
+      
+      Completed "Gokazoa.qc"
+  ... Compiling "Creatures\Gokazoa.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\hikolossa.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "hikolossa.qc"
+      Building binary model files...
+      Working on "hikolossa.qc"
+      SMD MODEL hikolossa_body.smd
+      SMD MODEL hikolossa_rotors.smd
+      Processing LOD for material: S002C_01
+      Processing LOD for material: S002C_05
+      Processing LOD for material: S002C_02
+      Processing LOD for material: S002C_03
+      Processing LOD for material: S002C_04
+      Processing LOD for material: S002C_07
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Hikolossa.mdl:
+      bones        17044 bytes (61)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      460 bytes (1 seq) 
+      ik/pose        476 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       400 bytes
+      keyvalues        0 bytes
+      bone transforms     8360 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        28372
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Hikolossa.vvd:
+      vertices    303456 bytes (6322 vertices)
+      vertices     13824 bytes (288 vertices)
+      tangents    101152 bytes (6322 vertices)
+      tangents      4608 bytes (288 vertices)
+      total       423104 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Hikolossa.sw.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          59490 bytes
+      indices:        38100 bytes
+      bone changes:       8 bytes
+      everything:     98172 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Hikolossa.dx80.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           350 bytes
+      verts:          59805 bytes
+      indices:        38100 bytes
+      bone changes:    1032 bytes
+      everything:     99651 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Hikolossa.dx90.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          59490 bytes
+      indices:        38100 bytes
+      bone changes:     920 bytes
+      everything:     99084 bytes
+      
+      Completed "hikolossa.qc"
+  ... Compiling "Creatures\hikolossa.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\komadoros.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "komadoros.qc"
+      Building binary model files...
+      Working on "komadoros.qc"
+      SMD MODEL Komadoros.smd
+      Processing LOD for material: body
+      Processing LOD for material: etc
+      Processing LOD for material: face
+      Processing LOD for material: wing
+      Processing LOD for material: Gold
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komadoros.mdl:
+      bones        11572 bytes (43)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      388 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       336 bytes
+      keyvalues        0 bytes
+      bone transforms     5912 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        19600
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komadoros.vvd:
+      vertices    221760 bytes (4620 vertices)
+      tangents     73920 bytes (4620 vertices)
+      total       295744 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komadoros.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           175 bytes
+      verts:          41580 bytes
+      indices:        32466 bytes
+      bone changes:       8 bytes
+      everything:     74503 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komadoros.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           210 bytes
+      verts:          42147 bytes
+      indices:        32466 bytes
+      bone changes:     568 bytes
+      everything:     75665 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komadoros.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           175 bytes
+      verts:          41580 bytes
+      indices:        32466 bytes
+      bone changes:     536 bytes
+      everything:     75031 bytes
+      
+      Completed "komadoros.qc"
+  ... Compiling "Creatures\komadoros.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\komainu.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "komainu.qc"
+      Building binary model files...
+      Working on "komainu.qc"
+      SMD MODEL Komainu.smd
+      Processing LOD for material: Komainu
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komainu.mdl:
+      bones         8480 bytes (30)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      336 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       216 bytes
+      keyvalues        0 bytes
+      bone transforms     4144 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        13940
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komainu.vvd:
+      vertices    106128 bytes (2211 vertices)
+      tangents     35376 bytes (2211 vertices)
+      total       141568 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komainu.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          19899 bytes
+      indices:        19392 bytes
+      bone changes:       8 bytes
+      everything:     39440 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komainu.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            70 bytes
+      verts:          20052 bytes
+      indices:        19392 bytes
+      bone changes:     200 bytes
+      everything:     39820 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komainu.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          19899 bytes
+      indices:        19392 bytes
+      bone changes:     160 bytes
+      everything:     39592 bytes
+      
+      Completed "komainu.qc"
+  ... Compiling "Creatures\komainu.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\komanatos.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "komanatos.qc"
+      Building binary model files...
+      Working on "komanatos.qc"
+      SMD MODEL Komanatos.smd
+      ERROR: model has no sequences
+      ERROR: Aborted Processing on 'spectrobes/creatures/Komanatos.mdl'
+  ... Compiling "Creatures\komanatos.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\leo.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "leo.qc"
+      Building binary model files...
+      Working on "leo.qc"
+      SMD MODEL Leo.smd
+      SMD MODEL leo_Lids.smd
+      Processing LOD for material: Leo2A
+      Processing LOD for material: Leo1A
+      Processing LOD for material: Leo2A
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leo.mdl:
+      bones         7108 bytes (24)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      312 bytes (1 seq) 
+      ik/pose        476 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
+      keyvalues        0 bytes
+      bone transforms     3328 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        12300
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leo.vvd:
+      vertices     92160 bytes (1920 vertices)
+      vertices      1920 bytes (40 vertices)
+      tangents     30720 bytes (1920 vertices)
+      tangents       640 bytes (40 vertices)
+      total       125504 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leo.sw.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          17640 bytes
+      indices:        18408 bytes
+      bone changes:       8 bytes
+      everything:     36399 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leo.dx80.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          17640 bytes
+      indices:        18408 bytes
+      bone changes:     216 bytes
+      everything:     36607 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leo.dx90.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          17640 bytes
+      indices:        18408 bytes
+      bone changes:     216 bytes
+      everything:     36607 bytes
+      
+      Completed "leo.qc"
+  ... Compiling "Creatures\leo.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\leopuba.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "leopuba.qc"
+      Building binary model files...
+      Working on "leopuba.qc"
+      SMD MODEL leopuba.smd
+      Processing LOD for material: leopuba
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leopuba.mdl:
+      bones        12768 bytes (46)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      400 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       140 bytes
+      keyvalues        0 bytes
+      bone transforms     6320 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        20576
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leopuba.vvd:
+      vertices    261936 bytes (5457 vertices)
+      tangents     87312 bytes (5457 vertices)
+      total       349312 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leopuba.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          49113 bytes
+      indices:        32214 bytes
+      bone changes:       8 bytes
+      everything:     81476 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leopuba.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:           105 bytes
+      verts:          49815 bytes
+      indices:        32214 bytes
+      bone changes:     328 bytes
+      everything:     82568 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leopuba.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          49113 bytes
+      indices:        32214 bytes
+      bone changes:     256 bytes
+      everything:     81724 bytes
+      
+      Completed "leopuba.qc"
+  ... Compiling "Creatures\leopuba.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\leozar.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "leozar.qc"
+      Building binary model files...
+      Working on "leozar.qc"
+      SMD MODEL Leozar.smd
+      Processing LOD for material: Leozar
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/leozar.mdl:
+      bones        18168 bytes (64)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      472 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       140 bytes
+      keyvalues        0 bytes
+      bone transforms     8768 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        28880
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/leozar.vvd:
+      vertices    267024 bytes (5563 vertices)
+      tangents     89008 bytes (5563 vertices)
+      total       356096 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/leozar.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          50067 bytes
+      indices:        32160 bytes
+      bone changes:       8 bytes
+      everything:     82376 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/leozar.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:           210 bytes
+      verts:          51327 bytes
+      indices:        32160 bytes
+      bone changes:     664 bytes
+      everything:     84467 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/leozar.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          50067 bytes
+      indices:        32160 bytes
+      bone changes:     432 bytes
+      everything:     82800 bytes
+      
+      Completed "leozar.qc"
+  ... Compiling "Creatures\leozar.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\rydrake.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "rydrake.qc"
+      Building binary model files...
+      Working on "rydrake.qc"
+      SMD MODEL Rydrake.smd
+      Processing LOD for material: Mask
+      Processing LOD for material: Legs
+      Processing LOD for material: Wings02
+      Processing LOD for material: Head
+      Processing LOD for material: Wings01
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Rydrake.mdl:
+      bones        15700 bytes (57)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      444 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       336 bytes
+      keyvalues        0 bytes
+      bone transforms     7816 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        25860
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Rydrake.vvd:
+      vertices    303408 bytes (6321 vertices)
+      tangents    101136 bytes (6321 vertices)
+      total       404608 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Rydrake.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           175 bytes
+      verts:          56889 bytes
+      indices:        39648 bytes
+      bone changes:       8 bytes
+      everything:     96994 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Rydrake.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           315 bytes
+      verts:          57276 bytes
+      indices:        39648 bytes
+      bone changes:    1000 bytes
+      everything:     98513 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Rydrake.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           175 bytes
+      verts:          56889 bytes
+      indices:        39648 bytes
+      bone changes:     904 bytes
+      everything:     97890 bytes
+      
+      Completed "rydrake.qc"
+  ... Compiling "Creatures\rydrake.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\ryza.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "ryza.qc"
+      Building binary model files...
+      Working on "ryza.qc"
+      SMD MODEL Ryza.smd
+      SMD MODEL ryza_Lids.smd
+      Processing LOD for material: body
+      Processing LOD for material: Armor
+      Processing LOD for material: body
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Ryza.mdl:
+      bones         6744 bytes (22)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      304 bytes (1 seq) 
+      ik/pose        476 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       136 bytes
+      keyvalues        0 bytes
+      bone transforms     3056 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        11476
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Ryza.vvd:
+      vertices    106848 bytes (2226 vertices)
+      vertices       960 bytes (20 vertices)
+      tangents     35616 bytes (2226 vertices)
+      tangents       320 bytes (20 vertices)
+      total       143808 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Ryza.sw.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          20214 bytes
+      indices:        19908 bytes
+      bone changes:       8 bytes
+      everything:     40473 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Ryza.dx80.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           140 bytes
+      verts:          20754 bytes
+      indices:        19908 bytes
+      bone changes:     344 bytes
+      everything:     41384 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Ryza.dx90.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          20214 bytes
+      indices:        19908 bytes
+      bone changes:     288 bytes
+      everything:     40753 bytes
+      
+      Completed "ryza.qc"
+  ... Compiling "Creatures\ryza.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\shako.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "shako.qc"
+      Building binary model files...
+      Working on "shako.qc"
+      SMD MODEL Shako.smd
+      Processing LOD for material: shako
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shako.mdl:
+      bones         1900 bytes (5)
+         animation       x       y       ips    angle
+      animations     116 bytes (1 anims) (1 frames) [0:00]
+      sequences      236 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures        72 bytes
+      keyvalues        0 bytes
+      bone transforms      744 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total         3488
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shako.vvd:
+      vertices     63840 bytes (1330 vertices)
+      tangents     21280 bytes (1330 vertices)
+      total        85184 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shako.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          11970 bytes
+      indices:         9390 bytes
+      bone changes:       8 bytes
+      everything:     21509 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shako.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          11970 bytes
+      indices:         9390 bytes
+      bone changes:      24 bytes
+      everything:     21525 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shako.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          11970 bytes
+      indices:         9390 bytes
+      bone changes:      24 bytes
+      everything:     21525 bytes
+      
+      Completed "shako.qc"
+  ... Compiling "Creatures\shako.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\shakoblade.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "shakoblade.qc"
+      Building binary model files...
+      Working on "shakoblade.qc"
+      SMD MODEL shakoblade.smd
+      Processing LOD for material: gold
+      Processing LOD for material: katai
+      Processing LOD for material: BODY_A
+      Processing LOD for material: BODY_B
+      Processing LOD for material: face1
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.mdl:
+      bones        11312 bytes (49)
+         animation       x       y       ips    angle
+      animations     136 bytes (1 anims) (1 frames) [0:00]
+      sequences      412 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       336 bytes
+      keyvalues        0 bytes
+      bone transforms     6728 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        20276
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.vvd:
+      vertices    200736 bytes (4182 vertices)
+      tangents     66912 bytes (4182 vertices)
+      total       267712 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           175 bytes
+      verts:          37638 bytes
+      indices:        26352 bytes
+      bone changes:       8 bytes
+      everything:     64447 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           490 bytes
+      verts:          38646 bytes
+      indices:        26352 bytes
+      bone changes:    1360 bytes
+      everything:     67122 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           175 bytes
+      verts:          37638 bytes
+      indices:        26352 bytes
+      bone changes:    1056 bytes
+      everything:     65495 bytes
+      
+      Completed "shakoblade.qc"
+  ... Compiling "Creatures\shakoblade.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\shakor.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "shakor.qc"
+      Building binary model files...
+      Working on "shakor.qc"
+      SMD MODEL Shakor.smd
+      Processing LOD for material: shakor
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shakor.mdl:
+      bones        11032 bytes (38)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      368 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures        72 bytes
+      keyvalues        0 bytes
+      bone transforms     5232 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        17584
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shakor.vvd:
+      vertices    140448 bytes (2926 vertices)
+      tangents     46816 bytes (2926 vertices)
+      total       187328 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shakor.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          26334 bytes
+      indices:        23190 bytes
+      bone changes:       8 bytes
+      everything:     49673 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shakor.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:           105 bytes
+      verts:          27270 bytes
+      indices:        23190 bytes
+      bone changes:     368 bytes
+      everything:     51039 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shakor.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          26334 bytes
+      indices:        23190 bytes
+      bone changes:     288 bytes
+      everything:     49953 bytes
+      
+      Completed "shakor.qc"
+  ... Compiling "Creatures\shakor.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\shimainu.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "shimainu.qc"
+      Building binary model files...
+      Working on "shimainu.qc"
+      SMD MODEL Shimainu.smd
+      SMD MODEL shimainu_Lids.smd
+      Processing LOD for material: Body
+      Processing LOD for material: Body
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shimainu.mdl:
+      bones         5604 bytes (18)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      288 bytes (1 seq) 
+      ik/pose        476 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures        72 bytes
+      keyvalues        0 bytes
+      bone transforms     2512 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total         9576
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shimainu.vvd:
+      vertices    105312 bytes (2194 vertices)
+      vertices      2016 bytes (42 vertices)
+      tangents     35104 bytes (2194 vertices)
+      tangents       672 bytes (42 vertices)
+      total       143168 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shimainu.sw.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
+      verts:          20124 bytes
+      indices:        16866 bytes
+      bone changes:       8 bytes
+      everything:     37264 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shimainu.dx80.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
+      verts:          20124 bytes
+      indices:        16866 bytes
+      bone changes:     136 bytes
+      everything:     37392 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shimainu.dx90.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
+      verts:          20124 bytes
+      indices:        16866 bytes
+      bone changes:     136 bytes
+      everything:     37392 bytes
+      
+      Completed "shimainu.qc"
+  ... Compiling "Creatures\shimainu.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\shimanoto.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "shimanoto.qc"
+      Building binary model files...
+      Working on "shimanoto.qc"
+      SMD MODEL Shimanoto.smd
+      Processing LOD for material: Mat3
+      Processing LOD for material: Mat4
+      Processing LOD for material: Mat2
+      Processing LOD for material: Mat5
+      Processing LOD for material: Mat1
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shimanoto.mdl:
+      bones        11616 bytes (41)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      380 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       336 bytes
+      keyvalues        0 bytes
+      bone transforms     5640 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        19356
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shimanoto.vvd:
+      vertices    178752 bytes (3724 vertices)
+      tangents     59584 bytes (3724 vertices)
+      total       238400 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shimanoto.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           175 bytes
+      verts:          33516 bytes
+      indices:        29004 bytes
+      bone changes:       8 bytes
+      everything:     62977 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shimanoto.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           210 bytes
+      verts:          33597 bytes
+      indices:        29004 bytes
+      bone changes:     432 bytes
+      everything:     63517 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Shimanoto.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            45 bytes
+      strip groups:     165 bytes
+      strips:           175 bytes
+      verts:          33516 bytes
+      indices:        29004 bytes
+      bone changes:     408 bytes
+      everything:     63377 bytes
+      
+      Completed "shimanoto.qc"
+  ... Compiling "Creatures\shimanoto.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\spikan.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "spikan.qc"
+      Building binary model files...
+      Working on "spikan.qc"
+      SMD MODEL spikan.smd
+      Processing LOD for material: spikan
+      Processing LOD for material: eye
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/spikan.mdl:
+      bones        17816 bytes (63)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      468 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       136 bytes
+      keyvalues        0 bytes
+      bone transforms     8632 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        28232
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/spikan.vvd:
+      vertices    182352 bytes (3799 vertices)
+      tangents     60784 bytes (3799 vertices)
+      total       243200 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/spikan.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
+      verts:          34191 bytes
+      indices:        24324 bytes
+      bone changes:       8 bytes
+      everything:     58741 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/spikan.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:           210 bytes
+      verts:          34821 bytes
+      indices:        24324 bytes
+      bone changes:     600 bytes
+      everything:     60103 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/spikan.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:           105 bytes
+      verts:          34326 bytes
+      indices:        24324 bytes
+      bone changes:     488 bytes
+      everything:     59391 bytes
+      
+      Completed "spikan.qc"
+  ... Compiling "Creatures\spikan.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\spikanor.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "spikanor.qc"
+      Building binary model files...
+      Working on "spikanor.qc"
+      SMD MODEL Spikanor.smd
+      Processing LOD for material: phong2
+      Processing LOD for material: phong3
+      Processing LOD for material: phong4
+      Processing LOD for material: phong1
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Spikanor.mdl:
+      bones        19092 bytes (67)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      484 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       548 bytes
+      keyvalues        0 bytes
+      bone transforms     9176 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        30784
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Spikanor.vvd:
+      vertices    237072 bytes (4939 vertices)
+      tangents     79024 bytes (4939 vertices)
+      total       316160 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Spikanor.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          44451 bytes
+      indices:        29466 bytes
+      bone changes:       8 bytes
+      everything:     74297 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Spikanor.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           315 bytes
+      verts:          45189 bytes
+      indices:        29466 bytes
+      bone changes:     968 bytes
+      everything:     76170 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Spikanor.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          44451 bytes
+      indices:        29466 bytes
+      bone changes:     768 bytes
+      everything:     75057 bytes
+      
+      Completed "spikanor.qc"
+  ... Compiling "Creatures\spikanor.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\spiko.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "spiko.qc"
+      Building binary model files...
+      Working on "spiko.qc"
+      SMD MODEL spiko.smd
+      ERROR: model has no sequences
+      ERROR: Aborted Processing on 'spectrobes/creatures/Spiko.mdl'
+  ... Compiling "Creatures\spiko.qc" finished. Check above for any errors.
+
+  Compiling "Creatures\zazane.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "zazane.qc"
+      Building binary model files...
+      Working on "zazane.qc"
+      SMD MODEL Zazane.smd
+      Processing LOD for material: Zazane
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.mdl:
+      bones        10692 bytes (38)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      368 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures        72 bytes
+      keyvalues        0 bytes
+      bone transforms     5232 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        17240
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.vvd:
+      vertices    202128 bytes (4211 vertices)
+      tangents     67376 bytes (4211 vertices)
+      total       269568 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          37899 bytes
+      indices:        32760 bytes
+      bone changes:       8 bytes
+      everything:     70808 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            70 bytes
+      verts:          38151 bytes
+      indices:        32760 bytes
+      bone changes:     240 bytes
+      everything:     71327 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          37899 bytes
+      indices:        32760 bytes
+      bone changes:     224 bytes
+      everything:     71024 bytes
+      
+      Completed "zazane.qc"
+  ... Compiling "Creatures\zazane.qc" finished. Check above for any errors.
