@@ -1,0 +1,80 @@
+// Created by Crowbar 0.67
+
+  Compiling ".\Drilzon.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Drilzon.qc"
+      Building binary model files...
+      Working on "Drilzon.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\DrilzonV1_1.dmx
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Drilzon.dmx
+      Processing LOD for material: B001_core
+      Processing LOD for material: B001_001
+      Processing LOD for material: B001_002
+      Processing LOD for material: B001_003
+      Processing LOD for material: B001_004
+      Processing LOD for material: B001_007
+      Processing LOD for material: B001_007_fur_fur
+      Processing LOD for material: B001_008
+      Processing LOD for material: B001_005_fur
+      Processing LOD for material: B001_006
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Drilzon.mdl:
+      bones        15048 bytes (54)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      432 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       668 bytes
+      keyvalues        0 bytes
+      bone transforms     7408 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        25728
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Drilzon.vvd:
+      vertices    288720 bytes (6015 vertices)
+      tangents     96240 bytes (6015 vertices)
+      total       385024 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Drilzon.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           350 bytes
+      verts:          54135 bytes
+      indices:        39528 bytes
+      bone changes:       8 bytes
+      everything:     94505 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Drilzon.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           455 bytes
+      verts:          54387 bytes
+      indices:        39528 bytes
+      bone changes:     944 bytes
+      everything:     95798 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Drilzon.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           350 bytes
+      verts:          54135 bytes
+      indices:        39528 bytes
+      bone changes:     888 bytes
+      everything:     95385 bytes
+      
+      Completed "Drilzon.qc"
+  ... Compiling ".\Drilzon.qc" finished. Check above for any errors.
