@@ -2,6 +2,8 @@
 
 $ModelName "spectrobes/creatures/Zazane.mdl"
 
+$scale 3.0
+
 $Body "Body" "Zazane.smd"
 
 

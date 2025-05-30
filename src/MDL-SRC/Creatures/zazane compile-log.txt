@@ -11,7 +11,7 @@
       Processing LOD for material: Zazane
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.mdl:
-      bones        15384 bytes (59)
+      bones        16472 bytes (59)
          animation       x       y       ips    angle
       animations     120 bytes (1 anims) (1 frames) [0:00]
       sequences      452 bytes (1 seq) 
@@ -23,7 +23,7 @@
       bone transforms     8088 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        25068
+      total        26156
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.vvd:
       vertices    202560 bytes (4220 vertices)
