@@ -1,0 +1,70 @@
+// Created by Crowbar 0.67
+
+  Compiling ".\aoba.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      WARNING: Environment Variable VMOD usermod and -game D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "aoba.qc"
+      Building binary model files...
+      Working on "aoba.qc"
+      SMD MODEL Aoba.smd
+      Processing LOD for material: Aoba
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Aoba.mdl:
+      bones         9660 bytes (32)
+         animation       x       y       ips    angle
+      animations     116 bytes (1 anims) (1 frames) [0:00]
+      sequences      344 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures        72 bytes
+      keyvalues        0 bytes
+      bone transforms     4416 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        15272
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Aoba.vvd:
+      vertices    164352 bytes (3424 vertices)
+      tangents     54784 bytes (3424 vertices)
+      total       219200 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Aoba.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          30816 bytes
+      indices:        28572 bytes
+      bone changes:       8 bytes
+      everything:     59537 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Aoba.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:           105 bytes
+      verts:          31104 bytes
+      indices:        28572 bytes
+      bone changes:     288 bytes
+      everything:     60175 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Aoba.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          30816 bytes
+      indices:        28572 bytes
+      bone changes:     248 bytes
+      everything:     59777 bytes
+      
+      Completed "aoba.qc"
+  ... Compiling ".\aoba.qc" finished. Check above for any errors.
