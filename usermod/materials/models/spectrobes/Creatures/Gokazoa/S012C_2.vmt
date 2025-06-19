@@ -1,5 +1,5 @@
-"LightmappedGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "models/spectrobes/Creatures/Gokazoa/S012C_2"
+	$basetexture "models/spectrobes/Creatures/Gokazoa/S012C_2"
 
 }
