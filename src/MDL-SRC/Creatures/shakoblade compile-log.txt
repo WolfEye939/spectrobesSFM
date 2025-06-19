@@ -10,9 +10,9 @@
       SMD MODEL shakoblade.smd
       Processing LOD for material: gold
       Processing LOD for material: katai
-      Processing LOD for material: BODY_A
-      Processing LOD for material: BODY_B
-      Processing LOD for material: face1
+      Processing LOD for material: bodyA
+      Processing LOD for material: bodyB
+      Processing LOD for material: face
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.mdl:
       bones        14372 bytes (49)
@@ -27,7 +27,7 @@
       bone transforms     6728 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        23728
+      total        23724
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.vvd:
       vertices    200736 bytes (4182 vertices)

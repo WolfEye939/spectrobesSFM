@@ -1,15 +1,15 @@
 // Created by Crowbar 0.67
 
 $ModelName "spectrobes/creatures/shakoblade.mdl"
-$CDMaterials "models\spectrobes\creatures\shakoblade\"
+$CDMaterials "models\spectrobes\creatures\shakoblade"
 
 // $scale 10.0
 $body "body" "shakoblade.smd"
 
 $texturegroup "skins"
 {
-    { "katai" "gold" "face1" "body_a" "body_b" }
-    { "katai alt" "gold alt" "face alt" "body_a alt" "body_b alt" }
+    { "katai" "gold" "face" "bodyA" "bodyB" }
+    { "katai alt" "gold alt" "face alt" "bodyA alt" "bodyB alt" }
 }
 
 
