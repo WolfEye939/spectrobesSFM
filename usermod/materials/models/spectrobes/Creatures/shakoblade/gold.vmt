@@ -1,4 +1,4 @@
 VertexLitGeneric {
-	$basetexture "spectrobes\shakoblade\gold"
+	$basetexture "models\spectrobes\creatures\shakoblade\gold"
 	$model 1
 }

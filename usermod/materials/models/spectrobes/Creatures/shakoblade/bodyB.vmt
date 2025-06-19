@@ -1,0 +1,4 @@
+VertexLitGeneric {
+	$basetexture "models\spectrobes\creatures\shakoblade\bodyB"
+	$model 1
+}
