@@ -1,9 +1,10 @@
 // Created by Crowbar 0.67
 
   Compiling ".\shakoblade.qc" ...
-    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+    Output from compiler "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\studiomdl.exe": 
+      StudioMDL.exe (May  9 2025) - Garry's Mod Edition
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
-      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      gamedir: "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\"
       g_path:  "shakoblade.qc"
       Building binary model files...
       Working on "shakoblade.qc"
@@ -14,9 +15,10 @@
       Processing LOD for material: bodyB
       Processing LOD for material: face
       ---------------------
-      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.mdl:
+      writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/spectrobes/creatures/shakoblade.mdl:
       bones        14372 bytes (49)
          animation       x       y       ips    angle
+             @idle    0.00    0.00 :     inf (   0.00) 0.0
       animations     132 bytes (1 anims) (1 frames) [0:00]
       sequences      412 bytes (1 seq) 
       ik/pose        164 bytes
@@ -29,46 +31,39 @@
       collision        0 bytes
       total        23724
       ---------------------
-      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.vvd:
+      writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/spectrobes/creatures/shakoblade.vvd:
       vertices    200736 bytes (4182 vertices)
       tangents     66912 bytes (4182 vertices)
       total       267712 bytes
       ---------------------
-      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.sw.vtx":
+      Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/spectrobes/creatures/shakoblade.dx80.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
       meshes:            45 bytes
-      strip groups:     165 bytes
-      strips:           175 bytes
-      verts:          37638 bytes
-      indices:        26352 bytes
-      bone changes:       8 bytes
-      everything:     64447 bytes
-      ---------------------
-      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.dx80.vtx":
-      body parts:         8 bytes
-      models:            20 bytes
-      model LODs:        12 bytes
-      meshes:            45 bytes
-      strip groups:     165 bytes
-      strips:           490 bytes
+      strip groups:     125 bytes
+      strips:           378 bytes
       verts:          38646 bytes
       indices:        26352 bytes
       bone changes:    1360 bytes
-      everything:     67122 bytes
+      everything:     66970 bytes
       ---------------------
-      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/shakoblade.dx90.vtx":
+      Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/spectrobes/creatures/shakoblade.dx90.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
       meshes:            45 bytes
-      strip groups:     165 bytes
-      strips:           175 bytes
+      strip groups:     125 bytes
+      strips:           135 bytes
       verts:          37638 bytes
       indices:        26352 bytes
       bone changes:    1056 bytes
-      everything:     65495 bytes
+      everything:     65415 bytes
       
       Completed "shakoblade.qc"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\spectrobes\creatures\shakoblade.dx80.vtx" to "C:\Users\John Reich\Desktop\shakoblade_gmod\models\spectrobes\creatures"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\spectrobes\creatures\shakoblade.dx90.vtx" to "C:\Users\John Reich\Desktop\shakoblade_gmod\models\spectrobes\creatures"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\spectrobes\creatures\shakoblade.mdl" to "C:\Users\John Reich\Desktop\shakoblade_gmod\models\spectrobes\creatures"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\spectrobes\creatures\shakoblade.vvd" to "C:\Users\John Reich\Desktop\shakoblade_gmod\models\spectrobes\creatures"
+    CROWBAR: Deleted empty temporary compile folder "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models".
   ... Compiling ".\shakoblade.qc" finished. Check above for any errors.
