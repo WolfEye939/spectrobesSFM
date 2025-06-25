@@ -67,11 +67,6 @@
       everything:     59777 bytes
       
       Completed "aoba.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Aoba.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Aoba.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\aoba.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Aoba.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\aoba.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\aoba.qc" finished. Check above for any errors.
 
   Compiling ".\aobasar.qc" ...
@@ -143,11 +138,6 @@
       everything:     74135 bytes
       
       Completed "aobasar.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\aobasar.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\aobasar.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\aobasar.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\aobasar.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\aobasar.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\aobasar.qc" finished. Check above for any errors.
 
   Compiling ".\aoi.qc" ...
@@ -226,11 +216,6 @@
       everything:     30022 bytes
       
       Completed "aoi.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Aoi.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Aoi.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\aoi.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Aoi.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\aoi.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\aoi.qc" finished. Check above for any errors.
 
   Compiling ".\Gokazoa.qc" ...
@@ -328,11 +313,6 @@
       everything:     99084 bytes
       
       Completed "hikolossa.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Hikolossa.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Hikolossa.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\hikolossa.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Hikolossa.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\hikolossa.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\hikolossa.qc" finished. Check above for any errors.
 
   Compiling ".\komadoros.qc" ...
@@ -406,11 +386,6 @@
       everything:     75031 bytes
       
       Completed "komadoros.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Komadoros.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Komadoros.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\komadoros.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Komadoros.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\komadoros.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\komadoros.qc" finished. Check above for any errors.
 
   Compiling ".\komainu.qc" ...
@@ -480,11 +455,6 @@
       everything:     39592 bytes
       
       Completed "komainu.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Komainu.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Komainu.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\komainu.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Komainu.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\komainu.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\komainu.qc" finished. Check above for any errors.
 
   Compiling ".\komanatos.qc" ...
@@ -575,11 +545,6 @@
       everything:     36607 bytes
       
       Completed "leo.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Leo.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Leo.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\leo.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Leo.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\leo.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\leo.qc" finished. Check above for any errors.
 
   Compiling ".\leopuba.qc" ...
@@ -649,11 +614,6 @@
       everything:     81724 bytes
       
       Completed "leopuba.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Leopuba.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Leopuba.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\leopuba.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Leopuba.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\leopuba.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\leopuba.qc" finished. Check above for any errors.
 
   Compiling ".\leozar.qc" ...
@@ -723,11 +683,6 @@
       everything:     82800 bytes
       
       Completed "leozar.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\leozar.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\leozar.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\leozar.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\leozar.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\leozar.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\leozar.qc" finished. Check above for any errors.
 
   Compiling ".\rydrake.qc" ...
@@ -801,11 +756,6 @@
       everything:    101940 bytes
       
       Completed "rydrake.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Rydrake.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Rydrake.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\rydrake.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Rydrake.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\rydrake.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\rydrake.qc" finished. Check above for any errors.
 
   Compiling ".\ryza.qc" ...
@@ -884,11 +834,6 @@
       everything:     40753 bytes
       
       Completed "ryza.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Ryza.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Ryza.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\ryza.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Ryza.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\ryza.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\ryza.qc" finished. Check above for any errors.
 
   Compiling ".\shako.qc" ...
@@ -958,11 +903,6 @@
       everything:     21525 bytes
       
       Completed "shako.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shako.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shako.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shako.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shako.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shako.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\shako.qc" finished. Check above for any errors.
 
   Compiling ".\shakoblade.qc" ...
@@ -1036,11 +976,6 @@
       everything:     65495 bytes
       
       Completed "shakoblade.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shakoblade.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shakoblade.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shakoblade.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shakoblade.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shakoblade.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\shakoblade.qc" finished. Check above for any errors.
 
   Compiling ".\shakor.qc" ...
@@ -1110,11 +1045,6 @@
       everything:     49953 bytes
       
       Completed "shakor.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shakor.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shakor.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shakor.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shakor.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shakor.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\shakor.qc" finished. Check above for any errors.
 
   Compiling ".\shimainu.qc" ...
@@ -1192,11 +1122,6 @@
       everything:     37392 bytes
       
       Completed "shimainu.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shimainu.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shimainu.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shimainu.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shimainu.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shimainu.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\shimainu.qc" finished. Check above for any errors.
 
   Compiling ".\shimanoto.qc" ...
@@ -1270,11 +1195,6 @@
       everything:     63377 bytes
       
       Completed "shimanoto.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shimanoto.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shimanoto.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shimanoto.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Shimanoto.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\shimanoto.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\shimanoto.qc" finished. Check above for any errors.
 
   Compiling ".\spikan.qc" ...
@@ -1345,11 +1265,6 @@
       everything:     59391 bytes
       
       Completed "spikan.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\spikan.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\spikan.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\spikan.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\spikan.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\spikan.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\spikan.qc" finished. Check above for any errors.
 
   Compiling ".\spikanor.qc" ...
@@ -1422,11 +1337,6 @@
       everything:     75057 bytes
       
       Completed "spikanor.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Spikanor.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Spikanor.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\spikanor.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Spikanor.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\spikanor.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\spikanor.qc" finished. Check above for any errors.
 
   Compiling ".\spiko.qc" ...
@@ -1508,9 +1418,4 @@
       everything:     71467 bytes
       
       Completed "zazane.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Zazane.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Zazane.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\zazane.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Zazane.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\zazane.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\zazane.qc" finished. Check above for any errors.
