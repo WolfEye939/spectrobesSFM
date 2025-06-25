@@ -71,4 +71,9 @@
       everything:    101940 bytes
       
       Completed "rydrake.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Rydrake.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Rydrake.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\rydrake.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Rydrake.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\rydrake.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\rydrake.qc" finished. Check above for any errors.
