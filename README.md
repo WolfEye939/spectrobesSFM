@@ -7,4 +7,4 @@ the "mtl-src" directory simply contains textures for the models. KEEP IN MIND TH
 
 The "Usermod" directory is probably what you came for: its the product that can be usable in SFM. simply drag and drop the usermod directory to the "game" directory found wherever you have SFM installed.
 
-WHen you make art with this model pack, all I ask is you link this github repository or my github profile for making the port.
+When you make art with this model pack, all I ask is you link this github repository or my github profile for making the port.
