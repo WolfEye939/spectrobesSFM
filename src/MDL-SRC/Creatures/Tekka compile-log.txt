@@ -8,64 +8,90 @@
       Building binary model files...
       Working on "Tekka.qc"
       DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Tekka.dmx
-      Processing LOD for material: S000A_2
+      SMD MODEL Tekka_Eyelid/MABU00.smd
+      SMD MODEL Tekka_Eyelid/MABU01.smd
+      SMD MODEL Tekka_Eyelid/MABU02.smd
+      SMD MODEL Tekka_Eyelid/MABU03.smd
       Processing LOD for material: S000A_1
+      Processing LOD for material: S000A_2
+      Processing LOD for material: S000A_2
+      Processing LOD for material: S000A_2
+      Processing LOD for material: S000A_2
+      Processing LOD for material: S000A_2
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekka.mdl:
-      bones        10528 bytes (41)
+      bones         9660 bytes (37)
          animation       x       y       ips    angle
-      animations     128 bytes (1 anims) (1 frames) [0:00]
-      sequences      380 bytes (1 seq) 
-      ik/pose        164 bytes
+      animations     116 bytes (1 anims) (1 frames) [0:00]
+      sequences      364 bytes (1 seq) 
+      ik/pose        920 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
       textures       140 bytes
       keyvalues        0 bytes
-      bone transforms     5640 bytes
+      bone transforms     5096 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        17696
+      total        17452
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekka.vvd:
-      vertices    198000 bytes (4125 vertices)
-      tangents     66000 bytes (4125 vertices)
-      total       264064 bytes
+      vertices    191232 bytes (3984 vertices)
+      vertices      1728 bytes (36 vertices)
+      vertices      1728 bytes (36 vertices)
+      vertices      1728 bytes (36 vertices)
+      vertices      1728 bytes (36 vertices)
+      tangents     63744 bytes (3984 vertices)
+      tangents       576 bytes (36 vertices)
+      tangents       576 bytes (36 vertices)
+      tangents       576 bytes (36 vertices)
+      tangents       576 bytes (36 vertices)
+      total       264256 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekka.sw.vtx":
-      body parts:         8 bytes
-      models:            20 bytes
-      model LODs:        12 bytes
-      meshes:            18 bytes
-      strip groups:      66 bytes
-      strips:            70 bytes
-      verts:          37125 bytes
+      body parts:        16 bytes
+      models:           120 bytes
+      model LODs:        72 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          37152 bytes
       indices:        24444 bytes
       bone changes:       8 bytes
-      everything:     61795 bytes
+      everything:     62238 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekka.dx80.vtx":
-      body parts:         8 bytes
-      models:            20 bytes
-      model LODs:        12 bytes
-      meshes:            18 bytes
-      strip groups:      66 bytes
-      strips:           140 bytes
-      verts:          37332 bytes
+      body parts:        16 bytes
+      models:           120 bytes
+      model LODs:        72 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           280 bytes
+      verts:          37215 bytes
       indices:        24444 bytes
-      bone changes:     408 bytes
-      everything:     62472 bytes
+      bone changes:     384 bytes
+      everything:     62747 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekka.dx90.vtx":
-      body parts:         8 bytes
-      models:            20 bytes
-      model LODs:        12 bytes
-      meshes:            18 bytes
-      strip groups:      66 bytes
-      strips:            70 bytes
-      verts:          37125 bytes
+      body parts:        16 bytes
+      models:           120 bytes
+      model LODs:        72 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          37152 bytes
       indices:        24444 bytes
       bone changes:     360 bytes
-      everything:     62147 bytes
+      everything:     62590 bytes
       
       Completed "Tekka.qc"
   ... Compiling ".\Tekka.qc" finished. Check above for any errors.
