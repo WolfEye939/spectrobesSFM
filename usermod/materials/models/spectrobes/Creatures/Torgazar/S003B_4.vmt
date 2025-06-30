@@ -1,0 +1,5 @@
+VertexLitGeneric {
+	$basetexture "models/spectrobes/creatures/Torgazar/S003B_4"
+	$translucent 1
+	$model 1
+}

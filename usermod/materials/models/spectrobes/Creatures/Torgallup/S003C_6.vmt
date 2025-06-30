@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/spectrobes/Creatures/Torgallup/s003_Fire"
+	$model 1
+}
