@@ -8,11 +8,8 @@
       Building binary model files...
       Working on "Tekka.qc"
       DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Tekka.dmx
-      Processing LOD for material: S000A_23
-      Processing LOD for material: S000A_12
-      Processing LOD for material: S000A_22
-      Processing LOD for material: S000A_1
       Processing LOD for material: S000A_2
+      Processing LOD for material: S000A_1
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekka.mdl:
       bones        10528 bytes (41)
@@ -22,12 +19,12 @@
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures       340 bytes
+      textures       140 bytes
       keyvalues        0 bytes
       bone transforms     5640 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        18272
+      total        17696
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekka.vvd:
       vertices    198000 bytes (4125 vertices)
@@ -38,42 +35,37 @@
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:            45 bytes
-      strip groups:     165 bytes
-      strips:           175 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
       verts:          37125 bytes
       indices:        24444 bytes
       bone changes:       8 bytes
-      everything:     62026 bytes
+      everything:     61795 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekka.dx80.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:            45 bytes
-      strip groups:     165 bytes
-      strips:           245 bytes
-      verts:          37125 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:           140 bytes
+      verts:          37332 bytes
       indices:        24444 bytes
-      bone changes:     544 bytes
-      everything:     62632 bytes
+      bone changes:     408 bytes
+      everything:     62472 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekka.dx90.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:            45 bytes
-      strip groups:     165 bytes
-      strips:           175 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
       verts:          37125 bytes
       indices:        24444 bytes
-      bone changes:     544 bytes
-      everything:     62562 bytes
+      bone changes:     360 bytes
+      everything:     62147 bytes
       
       Completed "Tekka.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Tekka.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Tekka.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\tekka.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Tekka.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\tekka.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\Tekka.qc" finished. Check above for any errors.
