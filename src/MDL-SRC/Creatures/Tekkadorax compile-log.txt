@@ -23,12 +23,12 @@
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures       404 bytes
+      textures       892 bytes
       keyvalues        0 bytes
       bone transforms     5776 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        19540
+      total        20096
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekkadorax.vvd:
       vertices    328608 bytes (6846 vertices)
@@ -72,9 +72,4 @@
       everything:     97872 bytes
       
       Completed "Tekkadorax.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Tekkadorax.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Tekkadorax.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\tekkadorax.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\Tekkadorax.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\tekkadorax.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
   ... Compiling ".\Tekkadorax.qc" finished. Check above for any errors.
