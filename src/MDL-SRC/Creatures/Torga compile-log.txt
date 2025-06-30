@@ -1,0 +1,71 @@
+// Created by Crowbar 0.67
+
+  Compiling ".\Torga.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Torga.qc"
+      Building binary model files...
+      Working on "Torga.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Torga.dmx
+      Processing LOD for material: S003A_02
+      Processing LOD for material: S003A_01
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/torga.mdl:
+      bones         2836 bytes (9)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      252 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       140 bytes
+      keyvalues        0 bytes
+      bone transforms     1288 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total         5244
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/torga.vvd:
+      vertices    138192 bytes (2879 vertices)
+      tangents     46064 bytes (2879 vertices)
+      total       184320 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/torga.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
+      verts:          25911 bytes
+      indices:        19560 bytes
+      bone changes:       8 bytes
+      everything:     45697 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/torga.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
+      verts:          25911 bytes
+      indices:        19560 bytes
+      bone changes:     104 bytes
+      everything:     45793 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/torga.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
+      verts:          25911 bytes
+      indices:        19560 bytes
+      bone changes:     104 bytes
+      everything:     45793 bytes
+      
+      Completed "Torga.qc"
+  ... Compiling ".\Torga.qc" finished. Check above for any errors.
