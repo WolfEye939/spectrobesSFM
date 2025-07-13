@@ -1,0 +1,71 @@
+// Created by Crowbar 0.67
+
+  Compiling ".\Ukabi.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Ukabi.qc"
+      Building binary model files...
+      Working on "Ukabi.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Ukabi.dmx
+      Processing LOD for material: S008A_2
+      Processing LOD for material: S008A_1
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Ukabi.mdl:
+      bones         5412 bytes (19)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      292 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       140 bytes
+      keyvalues        0 bytes
+      bone transforms     2648 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total         9296
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Ukabi.vvd:
+      vertices    208368 bytes (4341 vertices)
+      tangents     69456 bytes (4341 vertices)
+      total       277888 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Ukabi.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
+      verts:          39069 bytes
+      indices:        36144 bytes
+      bone changes:       8 bytes
+      everything:     75439 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Ukabi.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
+      verts:          39069 bytes
+      indices:        36144 bytes
+      bone changes:     136 bytes
+      everything:     75567 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Ukabi.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
+      verts:          39069 bytes
+      indices:        36144 bytes
+      bone changes:     136 bytes
+      everything:     75567 bytes
+      
+      Completed "Ukabi.qc"
+  ... Compiling ".\Ukabi.qc" finished. Check above for any errors.
