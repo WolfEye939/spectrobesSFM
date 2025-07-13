@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/spectrobes/Creatures/zeni/S007A_body01_256"
+	$model 1
+}
