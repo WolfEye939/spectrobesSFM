@@ -1,0 +1,73 @@
+// Created by Crowbar 0.67
+
+  Compiling ".\Zenigor.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Zenigor.qc"
+      Building binary model files...
+      Working on "Zenigor.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Zenigor.dmx
+      Processing LOD for material: S007B_hikari
+      Processing LOD for material: S007B_face
+      Processing LOD for material: S007B_body
+      Processing LOD for material: S007B_leg
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zenigor.mdl:
+      bones        14912 bytes (54)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      432 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       272 bytes
+      keyvalues        0 bytes
+      bone transforms     7408 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        24460
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zenigor.vvd:
+      vertices    264288 bytes (5506 vertices)
+      tangents     88096 bytes (5506 vertices)
+      total       352448 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zenigor.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          49554 bytes
+      indices:        30180 bytes
+      bone changes:       8 bytes
+      everything:     80114 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zenigor.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           210 bytes
+      verts:          49662 bytes
+      indices:        30180 bytes
+      bone changes:     568 bytes
+      everything:     80852 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zenigor.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          49554 bytes
+      indices:        30180 bytes
+      bone changes:     520 bytes
+      everything:     80626 bytes
+      
+      Completed "Zenigor.qc"
+  ... Compiling ".\Zenigor.qc" finished. Check above for any errors.

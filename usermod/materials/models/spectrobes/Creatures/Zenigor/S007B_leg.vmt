@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/spectrobes/Creatures/Zenigor/S007B_leg_256"
+	$model 1
+}
