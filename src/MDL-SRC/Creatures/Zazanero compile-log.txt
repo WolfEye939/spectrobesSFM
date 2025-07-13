@@ -1,0 +1,75 @@
+// Created by Crowbar 0.67
+
+  Compiling ".\Zazanero.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Zazanero.qc"
+      Building binary model files...
+      Working on "Zazanero.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Zazanero.dmx
+      Processing LOD for material: S004C_05
+      Processing LOD for material: S004C_02
+      Processing LOD for material: S004C_01
+      Processing LOD for material: S004C_03
+      Processing LOD for material: S004C_04
+      Processing LOD for material: S004C_06
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazanero.mdl:
+      bones        13080 bytes (49)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      412 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       404 bytes
+      keyvalues        0 bytes
+      bone transforms     6728 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        22232
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazanero.vvd:
+      vertices    252864 bytes (5268 vertices)
+      tangents     84288 bytes (5268 vertices)
+      total       337216 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazanero.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          47412 bytes
+      indices:        37698 bytes
+      bone changes:       8 bytes
+      everything:     85644 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazanero.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           350 bytes
+      verts:          47916 bytes
+      indices:        37698 bytes
+      bone changes:     848 bytes
+      everything:     87128 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazanero.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          47412 bytes
+      indices:        37698 bytes
+      bone changes:     728 bytes
+      everything:     86364 bytes
+      
+      Completed "Zazanero.qc"
+  ... Compiling ".\Zazanero.qc" finished. Check above for any errors.
