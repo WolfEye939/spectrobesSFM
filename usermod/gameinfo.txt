@@ -2,16 +2,20 @@
 {
 	"game"		"Spectrobes"
 	"title"		"Spectrobes"
-	"title2"		"SFM content pack containing models from spectrobes Origins from the Wii"
+	"title2"	"SFM content pack containing models from spectrobes Origins from the Wii"
+	"title3"  "May cause a crash, test immediately."
+	
 	"type"		"multiplayer_only"
 	"nomodels"		"1"
 	"nohimodel"		"1"
 	"nocrosshair"		"0"
+
 	"hidden_maps"
 	{
 		"test_speakers"		"1"
 		"test_hardware"		"1"
 	}
+
 	"nodegraph"		"0"
 	"FileSystem"
 	{
@@ -19,7 +23,7 @@
 		"ToolsAppId"		"1840"
 		"SearchPaths"
 		{
-			"Game"		"|gameinfo_path|."
+			  "Game"		"|gameinfo_path|."
 //			"Game"		"tf"
 //			"Game"		"hl2"
 		}
