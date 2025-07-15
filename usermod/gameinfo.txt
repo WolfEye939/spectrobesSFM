@@ -5,6 +5,7 @@
 	"title2"	"SFM content pack containing models from spectrobes Origins from the Wii"
 	"title3"  "Spectrobes is made by Disney Interactive, all content may be removed if cease and desist is given"
 	// May cause a crash, test immediately!
+	// did not crash; however it didn't seem to show up or make any impact.
 	"type"		"multiplayer_only"
 
 	"nomodels"		  "1"
@@ -24,9 +25,9 @@
 		"ToolsAppId"		"1840"
 		"SearchPaths"
 		{
-			  "Game"		"|gameinfo_path|."
-//			"Game"		"tf"
-//			"Game"		"hl2"
+			"Game"		"|gameinfo_path|."
+			"Game"		"tf"
+			"Game"		"hl2"
 		}
 	}
 }
