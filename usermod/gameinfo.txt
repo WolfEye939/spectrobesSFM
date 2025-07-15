@@ -2,7 +2,7 @@
 {
 	"game"		"Spectrobes"
 	"title"		"Spectrobes"
-	"title2"		"based on SFM SDK technology"
+	"title2"		"SFM content pack containing models from spectrobes Origins from the Wii"
 	"type"		"multiplayer_only"
 	"nomodels"		"1"
 	"nohimodel"		"1"
