@@ -1,8 +1,9 @@
 // Created by Crowbar 0.67
 
 $ModelName "spectrobes/creatures/spikan.mdl"
+$CDMaterials "models\spectrobes\creatures\spikan\"
 
-$Body "body" "spikan.smd"
+$Body body "spikan.dmx"
 
 
 $SurfaceProp "flesh"
@@ -11,7 +12,7 @@ $Contents "solid"
 
 $IllumPosition 0 -14.271 12.389
 
-$CDMaterials "models\spectrobes\creatures\spikan\"
+
 
 // $Attachment "forward" "ValveBiped.forward" 0 0 0 rotate 0 0 0
 
@@ -113,7 +114,7 @@ $JiggleBone "mane"
 // Dafuq is this?!!
 // $SectionFrames 30 350
 
-$sequence "idle" "Spikan.smd"
+$sequence idle "Spikan.dmx"
 
 /*
 $Sequence "REF" {
