@@ -3,6 +3,8 @@
 $ModelName "spectrobes/creatures/spikan.mdl"
 $CDMaterials "models\spectrobes\creatures\spikan\"
 
+$Scale 5.0
+
 $Body body "spikan.dmx"
 
 

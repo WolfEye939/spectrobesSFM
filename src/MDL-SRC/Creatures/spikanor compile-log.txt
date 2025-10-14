@@ -1,0 +1,73 @@
+// Created by Crowbar 0.74
+
+  Compiling "spikanor.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "spikanor.qc"
+      Building binary model files...
+      Working on "spikanor.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\spikanor.dmx
+      Processing LOD for material: phong2
+      Processing LOD for material: phong3
+      Processing LOD for material: phong4
+      Processing LOD for material: phong1
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Spikanor.mdl:
+      bones        19092 bytes (67)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      484 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       552 bytes
+      keyvalues        0 bytes
+      bone transforms     9176 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        30788
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Spikanor.vvd:
+      vertices    237024 bytes (4938 vertices)
+      tangents     79008 bytes (4938 vertices)
+      total       316096 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Spikanor.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          44442 bytes
+      indices:        29466 bytes
+      bone changes:       8 bytes
+      everything:     74288 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Spikanor.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           315 bytes
+      verts:          45180 bytes
+      indices:        29466 bytes
+      bone changes:     968 bytes
+      everything:     76161 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Spikanor.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          44442 bytes
+      indices:        29466 bytes
+      bone changes:     768 bytes
+      everything:     75048 bytes
+      
+      Completed "spikanor.qc"
+  ... Compiling "spikanor.qc" finished. Check above for any errors.

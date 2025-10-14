@@ -2,7 +2,9 @@
 
 $ModelName "spectrobes/creatures/Spikanor.mdl"
 
-$Body "body" "Spikanor.smd"
+$scale 3.0
+
+$Body "body" "spikanor.dmx"
 
 
 $SurfaceProp "default"
@@ -21,7 +23,7 @@ $TextureGroup "skinfamilies"
 
 $CBox 0 0 0 0 0 0
 
-$BBox -24.637 -25.994 -3.897 59.654 25.987 34.064
+ $BBox -24.637 -25.994 -3.897 59.654 25.987 34.064
 
 
-$sequence "idle" "spikanor.smd"
+$sequence "idle" "spikanor.dmx"

@@ -1,6 +1,8 @@
 $modelname "spectrobes/creatures/Zazanero.mdl"
 $cdmaterials "models/spectrobes/creatures/zazanero/"
 
+$scale 5.0
+
 $body Body "Zazanero.dmx"
 
 $animation REF "Zazanero.dmx"

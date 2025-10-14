@@ -1,6 +1,6 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\Zazanero.qc" ...
+  Compiling "Zazanero.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
@@ -15,9 +15,9 @@
       Processing LOD for material: S004C_04
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazanero.mdl:
-      bones        13080 bytes (49)
+      bones        13760 bytes (49)
          animation       x       y       ips    angle
-      animations     120 bytes (1 anims) (1 frames) [0:00]
+      animations     128 bytes (1 anims) (1 frames) [0:00]
       sequences      412 bytes (1 seq) 
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
@@ -27,7 +27,7 @@
       bone transforms     6728 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        22044
+      total        22732
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazanero.vvd:
       vertices    252912 bytes (5269 vertices)
@@ -71,4 +71,4 @@
       everything:     86264 bytes
       
       Completed "Zazanero.qc"
-  ... Compiling ".\Zazanero.qc" finished. Check above for any errors.
+  ... Compiling "Zazanero.qc" finished. Check above for any errors.
