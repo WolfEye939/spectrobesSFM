@@ -1,0 +1,75 @@
+// Created by Crowbar 0.74
+
+  Compiling "Hikodrake.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      WARNING: Environment Variable VMOD general and -game D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Hikodrake.qc"
+      Building binary model files...
+      Working on "Hikodrake.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Hikodrake.dmx
+      Processing LOD for material: S002B_3
+      Processing LOD for material: S002B_4
+      Processing LOD for material: S002B_5
+      Processing LOD for material: S002B_1
+      Processing LOD for material: S002B_2
+      Processing LOD for material: S002B_6
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/hikodrake.mdl:
+      bones        15332 bytes (55)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      436 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       404 bytes
+      keyvalues        0 bytes
+      bone transforms     7544 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        25420
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/hikodrake.vvd:
+      vertices    331200 bytes (6900 vertices)
+      tangents    110400 bytes (6900 vertices)
+      total       441664 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/hikodrake.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          62100 bytes
+      indices:        42702 bytes
+      bone changes:       8 bytes
+      everything:    105336 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/hikodrake.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           350 bytes
+      verts:          62460 bytes
+      indices:        42702 bytes
+      bone changes:     952 bytes
+      everything:    106780 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/hikodrake.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          62100 bytes
+      indices:        42702 bytes
+      bone changes:     856 bytes
+      everything:    106184 bytes
+      
+      Completed "Hikodrake.qc"
+  ... Compiling "Hikodrake.qc" finished. Check above for any errors.
