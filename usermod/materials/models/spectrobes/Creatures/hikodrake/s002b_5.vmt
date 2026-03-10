@@ -1,5 +1,6 @@
 VertexLitGeneric
 {
 	$basetexture	"models/spectrobes/Creatures/hikodrake\S002B_5"
+	$translucent 1
 	$model 1
 }
