@@ -7,11 +7,8 @@
       g_path:  "komadoros.qc"
       Building binary model files...
       Working on "komadoros.qc"
-      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Komadoros.dmx
-      Processing LOD for material: body
-      Processing LOD for material: wing
-      Processing LOD for material: etc
-      Processing LOD for material: face
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Komadoros_rework.dmx
+      Processing LOD for material: Komadoros
       Processing LOD for material: Gold
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komadoros.mdl:
@@ -22,12 +19,12 @@
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures       340 bytes
+      textures       416 bytes
       keyvalues        0 bytes
       bone transforms     5912 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        20084
+      total        19848
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komadoros.vvd:
       vertices    222480 bytes (4635 vertices)
@@ -38,37 +35,37 @@
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:            45 bytes
-      strip groups:     165 bytes
-      strips:           175 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
       verts:          41715 bytes
       indices:        32466 bytes
       bone changes:       8 bytes
-      everything:     74638 bytes
+      everything:     74407 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komadoros.dx80.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:            45 bytes
-      strip groups:     165 bytes
-      strips:           210 bytes
-      verts:          41787 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:           140 bytes
+      verts:          42093 bytes
       indices:        32466 bytes
-      bone changes:     576 bytes
-      everything:     75313 bytes
+      bone changes:     432 bytes
+      everything:     75279 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komadoros.dx90.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:            45 bytes
-      strip groups:     165 bytes
-      strips:           175 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
       verts:          41715 bytes
       indices:        32466 bytes
-      bone changes:     536 bytes
-      everything:     75166 bytes
+      bone changes:     328 bytes
+      everything:     74727 bytes
       
       Completed "komadoros.qc"
   ... Compiling "komadoros.qc" finished. Check above for any errors.
