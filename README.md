@@ -4,7 +4,8 @@ the `src` folder contains 2 directories; `mdl-src` and `mtl-src`.
 `mdl-src` contains SMD and DMX type meshes that were direct conversions from my personal dumped copy of spectrobe origins. you are free to modify them in any way you wish.
 it also contains the QC scripts that tell the compiler the way to make the files usable for the source engine.
 
-the `mtl-src` directory simply contains textures for the models.
+the `mtl-src` directory simply contains textures for the models. these textures were pulled directly from the disc and are saved in the TGA format. 
+I chose this format for 2 reasons:
 
 ---
 
