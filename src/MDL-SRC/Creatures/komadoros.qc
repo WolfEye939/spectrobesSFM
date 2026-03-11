@@ -18,9 +18,9 @@ $sequence REF "Komadoros_rework.dmx"
 
 $texturegroup "skins" 
 {
-    { Komadoros gold }
-		{ Komadoros_GD gold_GD }
-		{ Komadoros_SV gold_SV }
+	{ Komadoros gold }
+	{ Komadoros_GD gold_GD }
+	{ Komadoros_SV gold_SV }
 }
 
 $SurfaceProp "default"
