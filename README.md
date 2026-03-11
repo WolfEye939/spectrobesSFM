@@ -6,7 +6,8 @@ it also contains the QC scripts that tell the compiler the way to make the files
 
 the `mtl-src` directory simply contains textures for the models. these textures were pulled directly from the disc and are saved in the TGA format. 
 I chose this format for 2 reasons:
-
+1. JPEG's compression impact the visual quality of the models
+2. While PNG supports transparency, TGA has alpha channels which is what the source engine looks for when\ rendering transparent textures.
 ---
 
 The "Usermod" directory is probably what you came for: its the product that can be usable in SFM. simply drag and drop the usermod directory to the "game" directory found wherever you have SFM installed.
