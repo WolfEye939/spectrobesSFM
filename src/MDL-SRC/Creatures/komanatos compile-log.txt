@@ -18,12 +18,12 @@
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures        76 bytes
+      textures       220 bytes
       keyvalues        0 bytes
       bone transforms     6048 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        20300
+      total        20468
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Komanatos.vvd:
       vertices    180576 bytes (3762 vertices)

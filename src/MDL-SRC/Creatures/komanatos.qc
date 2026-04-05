@@ -8,6 +8,13 @@ $Body Ref "Komanoto_Rework 1_1.dmx"
 
 $sequence REF "Komanoto_Rework 1_1.dmx"
 
+$texturegroup "skins"
+{
+	{ "Komanotos" }
+	{ "Komanoto_SV" }
+	{ "Komanoto_GD" }
+}
+
 /*
 $Sequence "idle" {
 	"komanatos_anims\idle.smd"

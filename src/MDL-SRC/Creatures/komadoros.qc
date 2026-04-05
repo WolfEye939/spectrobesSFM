@@ -3,6 +3,8 @@
 $ModelName "spectrobes/creatures/Komadoros.mdl"
 $CDMaterials "models\spectrobes\creatures\Komadoros\"
 
+$scale 3.0
+
 $body body "Komadoros_rework.dmx"
 
 $sequence REF "Komadoros_rework.dmx"
@@ -23,8 +25,10 @@ $texturegroup "skins"
 	{ Komadoros_SV gold_SV }
 }
 
+
 $SurfaceProp "default"
 $Contents "solid"
+
 
 
 $CBox 0 0 0 0 0 0
