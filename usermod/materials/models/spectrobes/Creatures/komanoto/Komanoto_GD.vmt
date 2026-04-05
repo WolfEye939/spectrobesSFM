@@ -1,4 +1,4 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/spectrobes/Creatures/komanoto/Komanoto_GD"
+VertexlitGeneric {
+	$basetexture "models/spectrobes/Creatures/komanoto/Komanoto_GD"
+	$model 1
 }
