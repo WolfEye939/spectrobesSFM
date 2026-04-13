@@ -1,0 +1,4 @@
+VertexLitGeneric {
+	$Basetexture "models\spectrobes\Creatures\Zenigor\zenigor"
+	$model 1
+]
