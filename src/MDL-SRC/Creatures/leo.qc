@@ -5,8 +5,7 @@ $ModelName "spectrobes/creatures/Leo.mdl"
 $body "body" "Leo.smd"
 
 
-$BodyGroup "Blink"
-{
+$BodyGroup "Lids"{
 	blank
 	studio "leo_Lids.smd"
 }
