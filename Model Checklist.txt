@@ -1,27 +1,27 @@
 	SPECTROBES
-S000A | Tekka 		| ?
-S000B | Tekkadon	| ?
-S000C | Tekkadorax	| ?
-S001A | Zen		| ?
-S001B | Gazen		| ?
-S001C | Totsuzen	| ?
-S002A | Hiko		| ?
-S002B | Hikodrake	| ?
-S002C | Hikolossa	| ?
-S003A | Torga		| ?
-S003B | Torgazar	| ?
-S003C | Torgallup	| ?
-S004A | Zaza		| ?
-S004B | Zazane		| ?
-S004C | Zazanero	| ?
-S005A | Komainu	| ?
-S005B | Komanoto	| ?
-S005C | Komadoros	| ?
-S006A | Leo		| ?
-S006B | Leopuba	| ?
-S006C | Leozar		| ?
-S007A | Zeni		| ?
-S007B | Zenigor	| ?
+S000A | Tekka 		| ●
+S000B | Tekkadon	| ●
+S000C | Tekkadorax	| ●
+S001A | Zen		| ●
+S001B | Gazen		| ●
+S001C | Totsuzen	| ●
+S002A | Hiko		| ●
+S002B | Hikodrake	| ●
+S002C | Hikolossa	| ●
+S003A | Torga		| ●
+S003B | Torgazar	| ●
+S003C | Torgallup	| ●
+S004A | Zaza		| ●
+S004B | Zazane		| ●
+S004C | Zazanero	| ●
+S005A | Komainu		| ●
+S005B | Komanoto	| ●
+S005C | Komadoros	| ●
+S006A | Leo		| ●
+S006B | Leopuba		| ●
+S006C | Leozar		| ●
+S007A | Zeni		| ●
+S007B | Zenigor		| ●
 S007C | Zenipyra
 S008A | Ukabi
 S008B | Ukalos
@@ -89,7 +89,6 @@ S031C | Bombzar
 S032C | Scarazook
 S033C | Optoger
 S034C | Pegatinum
-
 	KRAWL
 E000A_01 | Kurag
 E000A_02 | Grekurag
