@@ -1,0 +1,141 @@
+	SPECTROBES
+S000A | Tekka 		| ?
+S000B | Tekkadon	| ?
+S000C | Tekkadorax	| ?
+S001A | Zen		| ?
+S001B | Gazen		| ?
+S001C | Totsuzen	| ?
+S002A | Hiko		| ?
+S002B | Hikodrake	| ?
+S002C | Hikolossa	| ?
+S003A | Torga		| ?
+S003B | Torgazar	| ?
+S003C | Torgallup	| ?
+S004A | Zaza		| ?
+S004B | Zazane		| ?
+S004C | Zazanero	| ?
+S005A | Komainu	| ?
+S005B | Komanoto	| ?
+S005C | Komadoros	| ?
+S006A | Leo		| ?
+S006B | Leopuba	| ?
+S006C | Leozar		| ?
+S007A | Zeni		| ?
+S007B | Zenigor	| ?
+S007C | Zenipyra
+S008A | Ukabi
+S008B | Ukalos
+S008C | Ukazeer
+S009A | Ryza
+S009B | Rygazelle
+S009C | Rydrake
+S010A | Paga
+S010B | Pagani
+S010C | Pagadori
+S011A | Shakin
+S011B | Shakor
+S011C | Shakoblade
+S012A | Tamazoa
+S012B | Tiazoa
+S012C | Gokazoa
+S013A | Zuwa
+S013B | Zuwaja
+S013C | Zuwakrid
+S014A | Dongu
+S014B | Rapagu
+S014C | Daidongu
+S016A | Spiko
+S016B | Spikan
+S016C | Spikanor
+S017A | Pepe
+S017B | Pepeza
+S017C | Pepethraz
+S018A | Sabo
+S018B | Sabogar
+S018C | Saboquill
+S019A | Hananomi
+S019B | Piximi
+S019C | Florami
+S020A | Dongor
+S020B | Dongora
+S020C | Dongiga
+S021A | Shimainu
+S021B | Shimanoto
+S021C | Shimadoros
+S022A | Mayar
+S022B | Mayarex
+S022C | Mayazerra
+S023A | Tobasu
+S023B | Ketobasu
+S023C | Butobasu
+S024A | Gorz
+S024B | Gorgan
+S024C | Gorberus
+S025A | Zappi
+S025B | Zappira
+S025C | Zappizor
+S026A | Totemo
+S026B | Totemoon
+S026C | Totegarda
+S027A | Zora
+S027B | Bazora
+S027C | Yagizora
+S028A | Aoi
+S028B | Aoba
+S028C | Aobasar
+S029C | Flamerax
+S030C | Mizusar
+S031C | Bombzar
+S032C | Scarazook
+S033C | Optoger
+S034C | Pegatinum
+
+	KRAWL
+E000A_01 | Kurag
+E000A_02 | Grekurag
+E000A_03 | Neokurag
+E000B_01 | Beskurag
+E000C_01 | Pakurag
+E000C_02 | Thokurag
+E001A_01 | Bleva
+E001B_01 | Ibleva
+E001C_01 | Izbleva
+E002A_01 | Mulroot
+E002B_01 | Thoroot
+E002C_01 | Gelroot
+E003A_01 | Znail
+E003B_01 | Gigaznail
+E003C_01 | Gigaznail
+E004A_01 | Pygrawl
+E004B_01 | Hygrawl
+E004C_01 | Sangrawl
+E005A_01 | Zorb
+E005A_02 | Grezorb
+E005A_03 | Neozorb
+E005B_01 | Pyrowag
+E005C_01 | Dokuwag
+E005D_01 | Hywag
+E005E_01 | Zapwag
+E005F_01 | Sanwag
+E006A_01 | Kasa
+E006A_02 | Grekasa
+E006A_03 | Neokasa
+E006B_01 | Gigasa
+E006C_01 | Gregasa
+E006D_01 | Jagasa
+E007A_01 | Zorog
+E007A_02 | Grezorog
+E007A_03 | Neozorog
+E007B_01 | Pyzorog
+E007C_01 | Gyzorog
+E008A_01 | Muzol
+E008A_02 | Gremuzol
+E008A_03 | Neomuzol
+E008B_01 | Druzol
+E008C_01 | Gandruzol
+E009A_01 | Grivo
+E009B_01 | Pygrivo
+E009C_01 | Hygrivo
+E010A_01 | Pyplask
+E010B_01 | Hyplask
+E010C_01 | Metaplask
