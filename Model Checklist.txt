@@ -10,31 +10,44 @@ B009_01 | Terragan
 B010_01 | Darkroe
 B011_01 | Zabatar
 B012_01 | Krux
-
+	CHARACTERS
+C000	| Rallen
+C001	| Jeena
+C002	| Radese
+C003	| Gretta
+C005	| Salia
+C006	| Kamtoga
+C007	| Young Kamtoga
+C008	| Neal
+C009	| Scout
+C010	| Tidy
+C011	| Krux
+C012	| Young Krux/Spectrobe Master
+C013	| Commander Grant
 	SPECTROBES
-S000A | Tekka 		| ●
-S000B | Tekkadon	| ●
-S000C | Tekkadorax	| ●
-S001A | Zen		| ●
-S001B | Gazen		| ●
-S001C | Totsuzen	| ●
-S002A | Hiko		| ●
-S002B | Hikodrake	| ●
-S002C | Hikolossa	| ●
-S003A | Torga		| ●
-S003B | Torgazar	| ●
-S003C | Torgallup	| ●
-S004A | Zaza		| ●
-S004B | Zazane		| ●
-S004C | Zazanero	| ●
-S005A | Komainu	| ●
-S005B | Komanoto	| ●
-S005C | Komadoros	| ●
-S006A | Leo		| ●
-S006B | Leopuba	| ●
-S006C | Leozar		| ●
-S007A | Zeni		| ●
-S007B | Zenigor	| ●
+S000A | Tekka 		| ?
+S000B | Tekkadon	| ?
+S000C | Tekkadorax	| ?
+S001A | Zen		| ?
+S001B | Gazen		| ?
+S001C | Totsuzen	| ?
+S002A | Hiko		| ?
+S002B | Hikodrake	| ?
+S002C | Hikolossa	| ?
+S003A | Torga		| ?
+S003B | Torgazar	| ?
+S003C | Torgallup	| ?
+S004A | Zaza		| ?
+S004B | Zazane		| ?
+S004C | Zazanero	| ?
+S005A | Komainu	| ?
+S005B | Komanoto	| ?
+S005C | Komadoros	| ?
+S006A | Leo		| ?
+S006B | Leopuba	| ?
+S006C | Leozar		| ?
+S007A | Zeni		| ?
+S007B | Zenigor	| ?
 S007C | Zenipyra
 S008A | Ukabi
 S008B | Ukalos
