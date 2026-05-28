@@ -1,3 +1,16 @@
+	BOSSES
+B000_01 | Galgore
+B001_01 | Drilzon
+B002_01 | Gigardos
+B003_01 | Zabacraw
+B004_01 | Electrox
+B005_01 | Gafing
+B008_01 | Jado
+B009_01 | Terragan
+B010_01 | Darkroe
+B011_01 | Zabatar
+B012_01 | Krux
+
 	SPECTROBES
 S000A | Tekka 		| ●
 S000B | Tekkadon	| ●
@@ -14,14 +27,14 @@ S003C | Torgallup	| ●
 S004A | Zaza		| ●
 S004B | Zazane		| ●
 S004C | Zazanero	| ●
-S005A | Komainu		| ●
+S005A | Komainu	| ●
 S005B | Komanoto	| ●
 S005C | Komadoros	| ●
 S006A | Leo		| ●
-S006B | Leopuba		| ●
+S006B | Leopuba	| ●
 S006C | Leozar		| ●
 S007A | Zeni		| ●
-S007B | Zenigor		| ●
+S007B | Zenigor	| ●
 S007C | Zenipyra
 S008A | Ukabi
 S008B | Ukalos
