@@ -1,0 +1,5 @@
+VertexLitGeneric {
+    $basetexture "models/spectrobes/boss/gigardos/b002_shield"
+    $bumpmap "models/spectrobes/boss/gigardos/b002_shield_id"
+    $model 1
+}
