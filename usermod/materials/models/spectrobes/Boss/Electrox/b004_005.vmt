@@ -1,0 +1,4 @@
+VertexLitGeneric {
+    $basetexture "models/spectrobes/Boss/Electrox/B004_005"
+    $model 1
+}

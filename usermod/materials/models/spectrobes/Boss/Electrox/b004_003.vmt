@@ -1,0 +1,5 @@
+VertexLitGeneric {
+    $basetexture "models/spectrobes/Boss/Electrox/B004_003"
+    $bumpmap "models/spectrobes/Boss/Electrox/B004_003_IND"
+    $model 1
+}
