@@ -1,0 +1,5 @@
+VertexLitGeneric {
+    $basetexture "models/spectrobes/boss/zabacraw/b003_02"
+    $model 1
+}
+

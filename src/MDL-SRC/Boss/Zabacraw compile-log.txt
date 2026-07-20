@@ -1,0 +1,75 @@
+// Created by Crowbar 0.74
+
+  Compiling "Zabacraw.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      WARNING: Environment Variable VMOD MyMaps and -game D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Zabacraw.qc"
+      Building binary model files...
+      Working on "Zabacraw.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Zabacraw.dmx
+      Processing LOD for material: B003_05
+      Processing LOD for material: B003_01
+      Processing LOD for material: B003_02
+      Processing LOD for material: B003_03
+      Processing LOD for material: B003_04
+      Processing LOD for material: B003_core
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabacraw.mdl:
+      bones         6960 bytes (23)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      308 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       404 bytes
+      keyvalues        0 bytes
+      bone transforms     3192 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        12216
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabacraw.vvd:
+      vertices    253968 bytes (5291 vertices)
+      tangents     84656 bytes (5291 vertices)
+      total       338688 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabacraw.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          47619 bytes
+      indices:        42606 bytes
+      bone changes:       8 bytes
+      everything:     90759 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabacraw.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          47619 bytes
+      indices:        42606 bytes
+      bone changes:     424 bytes
+      everything:     91175 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Zabacraw.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          47619 bytes
+      indices:        42606 bytes
+      bone changes:     424 bytes
+      everything:     91175 bytes
+      
+      Completed "Zabacraw.qc"
+  ... Compiling "Zabacraw.qc" finished. Check above for any errors.
