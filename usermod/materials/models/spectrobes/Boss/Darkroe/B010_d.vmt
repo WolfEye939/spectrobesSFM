@@ -1,0 +1,5 @@
+VertexLitGeneric {
+	$basetexture "models/spectrobes/Boss/Darkroe/B010_d"
+	$bumpmap "models/spectrobes/Boss/Darkroe/B010_d_IND"
+	$model 1
+}

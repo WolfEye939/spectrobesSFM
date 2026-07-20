@@ -1,0 +1,76 @@
+// Created by Crowbar 0.74
+
+  Compiling "Darkroe.QC" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      WARNING: Environment Variable VMOD MyMaps and -game D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Darkroe.QC"
+      Building binary model files...
+      Working on "Darkroe.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Darkroe.dmx
+      Processing LOD for material: B010_01
+      Processing LOD for material: B010_02
+      Processing LOD for material: B010_03
+      Processing LOD for material: B010_04
+      Processing LOD for material: B010_05
+      Processing LOD for material: B010_06
+      Processing LOD for material: B010_07
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Darkroe.mdl:
+      bones        28280 bytes (99)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      612 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       472 bytes
+      keyvalues        0 bytes
+      bone transforms    14428 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        46184
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Darkroe.vvd:
+      vertices    347184 bytes (7233 vertices)
+      tangents    115728 bytes (7233 vertices)
+      total       462976 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Darkroe.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     231 bytes
+      strips:           245 bytes
+      verts:          65097 bytes
+      indices:        55944 bytes
+      bone changes:       8 bytes
+      everything:    121652 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Darkroe.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     231 bytes
+      strips:           455 bytes
+      verts:          66249 bytes
+      indices:        55944 bytes
+      bone changes:    1448 bytes
+      everything:    124454 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Darkroe.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     231 bytes
+      strips:           245 bytes
+      verts:          65097 bytes
+      indices:        55944 bytes
+      bone changes:    1312 bytes
+      everything:    122956 bytes
+      
+      Completed "Darkroe.qc"
+  ... Compiling "Darkroe.QC" finished. Check above for any errors.
