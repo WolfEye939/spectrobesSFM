@@ -1,0 +1,78 @@
+// Created by Crowbar 0.74
+
+  Compiling "Gigardos.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      WARNING: Environment Variable VMOD MyMaps and -game C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\"
+      g_path:  "Gigardos.qc"
+      Building binary model files...
+      Working on "Gigardos.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Gigardos.dmx
+      Processing LOD for material: b002_shield
+      Processing LOD for material: b002_leg_F
+      Processing LOD for material: b002_leg_B
+      Processing LOD for material: b002_face
+      Processing LOD for material: b002_ice
+      Processing LOD for material: b002_neck
+      Processing LOD for material: b002_body
+      Processing LOD for material: b002_core
+      Processing LOD for material: b002_face1
+      ---------------------
+      writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Gigardos.mdl:
+      bones        18548 bytes (67)
+         animation       x       y       ips    angle
+      animations     136 bytes (1 anims) (1 frames) [0:00]
+      sequences      484 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       604 bytes
+      keyvalues        0 bytes
+      bone transforms     9176 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        30968
+      ---------------------
+      writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Gigardos.vvd:
+      vertices    309024 bytes (6438 vertices)
+      tangents    103008 bytes (6438 vertices)
+      total       412096 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Gigardos.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          57942 bytes
+      indices:        43416 bytes
+      bone changes:       8 bytes
+      everything:    102123 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Gigardos.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           385 bytes
+      verts:          58374 bytes
+      indices:        43416 bytes
+      bone changes:     880 bytes
+      everything:    103497 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Gigardos.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          57942 bytes
+      indices:        43416 bytes
+      bone changes:     840 bytes
+      everything:    102955 bytes
+      
+      Completed "Gigardos.qc"
+  ... Compiling "Gigardos.qc" finished. Check above for any errors.
