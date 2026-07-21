@@ -1,0 +1,76 @@
+// Created by Crowbar 0.74
+
+  Compiling "Gafing.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      WARNING: Environment Variable VMOD usermod and -game D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Gafing.qc"
+      Building binary model files...
+      Working on "Gafing.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Gafing.dmx
+      Processing LOD for material: B005_core
+      Processing LOD for material: B005_claw
+      Processing LOD for material: B005_body
+      Processing LOD for material: B005_wing
+      Processing LOD for material: B005_chlor
+      Processing LOD for material: B005_leg
+      Processing LOD for material: B005_stone
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.mdl:
+      bones        17248 bytes (61)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      460 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       472 bytes
+      keyvalues        0 bytes
+      bone transforms     8360 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        28368
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.vvd:
+      vertices    305760 bytes (6370 vertices)
+      tangents    101920 bytes (6370 vertices)
+      total       407744 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     231 bytes
+      strips:           245 bytes
+      verts:          57330 bytes
+      indices:        43476 bytes
+      bone changes:       8 bytes
+      everything:    101417 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     231 bytes
+      strips:           385 bytes
+      verts:          57897 bytes
+      indices:        43476 bytes
+      bone changes:    1016 bytes
+      everything:    103132 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     231 bytes
+      strips:           245 bytes
+      verts:          57330 bytes
+      indices:        43476 bytes
+      bone changes:     920 bytes
+      everything:    102329 bytes
+      
+      Completed "Gafing.qc"
+  ... Compiling "Gafing.qc" finished. Check above for any errors.
