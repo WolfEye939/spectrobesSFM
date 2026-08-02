@@ -24,12 +24,12 @@
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures       472 bytes
+      textures       960 bytes
       keyvalues        0 bytes
       bone transforms     8360 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        28368
+      total        28928
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/Boss/Gafing.vvd:
       vertices    305760 bytes (6370 vertices)
