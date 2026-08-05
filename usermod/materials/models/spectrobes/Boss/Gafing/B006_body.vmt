@@ -1,0 +1,4 @@
+VertexLitGeneric {
+    $basetexture "models/spectrobes/Boss/Gafing/B006_body"
+    $model 1
+}

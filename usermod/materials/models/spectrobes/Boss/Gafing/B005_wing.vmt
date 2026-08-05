@@ -1,3 +1,4 @@
 VertexLitGeneric {
-    
+    $basetexture "models/spectrobes/boss/gafing/b005_wing"
+    $model 1
 }
