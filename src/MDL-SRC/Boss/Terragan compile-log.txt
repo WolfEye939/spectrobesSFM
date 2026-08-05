@@ -1,0 +1,78 @@
+// Created by Crowbar 0.74
+
+  Compiling "Terragan.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      WARNING: Environment Variable VMOD MyMaps and -game C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\"
+      g_path:  "Terragan.qc"
+      Building binary model files...
+      Working on "Terragan.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Terragan.dmx
+      Processing LOD for material: B009_light
+      Processing LOD for material: lambert3
+      Processing LOD for material: B009_sippo
+      Processing LOD for material: B009_wing
+      Processing LOD for material: B009_arm
+      Processing LOD for material: B009_kaku
+      Processing LOD for material: B009_FACE
+      Processing LOD for material: B009_BODY
+      Processing LOD for material: B009_wing_b
+      ---------------------
+      writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Terragon.mdl:
+      bones        33584 bytes (120)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      696 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       604 bytes
+      keyvalues        0 bytes
+      bone transforms    16384 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        54064
+      ---------------------
+      writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Terragon.vvd:
+      vertices    410880 bytes (8560 vertices)
+      tangents    136960 bytes (8560 vertices)
+      total       547904 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Terragon.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          77040 bytes
+      indices:        69072 bytes
+      bone changes:       8 bytes
+      everything:    146877 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Terragon.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           525 bytes
+      verts:          77463 bytes
+      indices:        69072 bytes
+      bone changes:    1360 bytes
+      everything:    148862 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Terragon.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          77040 bytes
+      indices:        69072 bytes
+      bone changes:    1184 bytes
+      everything:    148053 bytes
+      
+      Completed "Terragan.qc"
+  ... Compiling "Terragan.qc" finished. Check above for any errors.

@@ -1,0 +1,5 @@
+VertexLitGeneric {
+	$basetexture "models/spectrobes/Boss/terragon/B009_ARM_S"
+	$envmap "models/spectrobes/Boss/terragon/specular_b009"
+	$model 1
+}

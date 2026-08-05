@@ -1,0 +1,6 @@
+VertexLitGeneric {
+	$basetexture "models/spectrobes/Boss/jado/B008_02"
+	$envmap "models/spectrobes/Boss/jado/specular5"
+
+	$model 1
+}
