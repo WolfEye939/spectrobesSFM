@@ -1,6 +1,6 @@
 // Created by Crowbar 0.74
 
-  Compiling "spikan.qc" ...
+  Compiling "spikan - Copy.qc" ...
     Output from compiler "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\bin\studiomdl.exe": 
       Using shader api: shaderapiempty.dll
       WARNING: ConVarRef developer doesn't point to an existing ConVar
@@ -17,9 +17,9 @@
       UpdateSearchPathsForCurrentGameExpansion
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "C:\Program Files (x86)\Steam\steamapps\sourcemods\coolshit\"
-      g_path:  "spikan.qc"
+      g_path:  "spikan - Copy.qc"
       Building binary model files...
-      Working on "spikan.qc"
+      Working on "spikan - Copy.qc"
       DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\spikan.dmx
       ---------------------
       writing C:\Program Files (x86)\Steam\steamapps\sourcemods\coolshit\models/spectrobes/creatures/spikan.mdl:
@@ -80,5 +80,5 @@
       bone changes:     480 bytes
       everything:     64529 bytes
       
-      Completed "spikan.qc"
-  ... Compiling "spikan.qc" finished. Check above for any errors.
+      Completed "spikan - Copy.qc"
+  ... Compiling "spikan - Copy.qc" finished. Check above for any errors.

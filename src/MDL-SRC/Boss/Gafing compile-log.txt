@@ -2,7 +2,7 @@
 
   Compiling "Gafing.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
-      WARNING: Environment Variable VMOD usermod and -game D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      WARNING: Environment Variable VMOD MyMaps and -game D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
       g_path:  "Gafing.qc"
       Building binary model files...
