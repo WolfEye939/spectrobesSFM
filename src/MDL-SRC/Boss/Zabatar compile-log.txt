@@ -1,0 +1,78 @@
+// Created by Crowbar 0.74
+
+  Compiling "Zabatar.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\"
+      g_path:  "Zabatar.qc"
+      Building binary model files...
+      Working on "Zabatar.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Zabatar.dmx
+      Processing LOD for material: B011_02_b
+      Processing LOD for material: B011_01
+      Processing LOD for material: B011_02
+      Processing LOD for material: B011_03
+      Processing LOD for material: B011_04
+      Processing LOD for material: B011_05
+      Processing LOD for material: B011_06
+      Processing LOD for material: B011_02_c
+      Processing LOD for material: B011_05_b
+      ---------------------
+      writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Zabatar.mdl:
+      bones        16040 bytes (57)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      444 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       604 bytes
+      keyvalues        0 bytes
+      bone transforms     7816 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        26940
+      ---------------------
+      writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Zabatar.vvd:
+      vertices    187296 bytes (3902 vertices)
+      tangents     62432 bytes (3902 vertices)
+      total       249792 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Zabatar.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          35118 bytes
+      indices:        36588 bytes
+      bone changes:       8 bytes
+      everything:     72471 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Zabatar.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           385 bytes
+      verts:          35883 bytes
+      indices:        36588 bytes
+      bone changes:     792 bytes
+      everything:     74090 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Zabatar.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            81 bytes
+      strip groups:     297 bytes
+      strips:           315 bytes
+      verts:          35118 bytes
+      indices:        36588 bytes
+      bone changes:     688 bytes
+      everything:     73151 bytes
+      
+      Completed "Zabatar.qc"
+  ... Compiling "Zabatar.qc" finished. Check above for any errors.
