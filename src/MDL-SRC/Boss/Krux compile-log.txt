@@ -1,0 +1,84 @@
+// Created by Crowbar 0.74
+
+  Compiling "Krux.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      WARNING: Environment Variable VMOD Spectrobes and -game C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\"
+      gamedir: "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\"
+      g_path:  "Krux.qc"
+      Building binary model files...
+      Working on "Krux.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\boss\Krux.dmx
+      Processing LOD for material: B012_mask
+      Processing LOD for material: B012_lain
+      Processing LOD for material: B012_buki
+      Processing LOD for material: B012_body
+      Processing LOD for material: B012_boots
+      Processing LOD for material: B012_fuku
+      Processing LOD for material: B012_hand
+      Processing LOD for material: B012_neck
+      Processing LOD for material: B012_mune
+      Processing LOD for material: B012_hand_b
+      Processing LOD for material: B012_body_b
+      Processing LOD for material: B012_fuku_b
+      Processing LOD for material: B012_head
+      Processing LOD for material: B012_hair
+      Processing LOD for material: B012_wing
+      ---------------------
+      writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Krux.mdl:
+      bones        29564 bytes (114)
+         animation       x       y       ips    angle
+      animations     116 bytes (1 anims) (1 frames) [0:00]
+      sequences      672 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures      1000 bytes
+      keyvalues        0 bytes
+      bone transforms    15568 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        50252
+      ---------------------
+      writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Krux.vvd:
+      vertices    437616 bytes (9117 vertices)
+      tangents    145872 bytes (9117 vertices)
+      total       583552 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Krux.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:           135 bytes
+      strip groups:     495 bytes
+      strips:           525 bytes
+      verts:          82053 bytes
+      indices:        59556 bytes
+      bone changes:       8 bytes
+      everything:    142836 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Krux.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:           135 bytes
+      strip groups:     495 bytes
+      strips:           735 bytes
+      verts:          83376 bytes
+      indices:        59556 bytes
+      bone changes:    1608 bytes
+      everything:    145969 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Boss/Krux.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:           135 bytes
+      strip groups:     495 bytes
+      strips:           525 bytes
+      verts:          82053 bytes
+      indices:        59556 bytes
+      bone changes:    1352 bytes
+      everything:    144180 bytes
+      
+      Completed "Krux.qc"
+  ... Compiling "Krux.qc" finished. Check above for any errors.

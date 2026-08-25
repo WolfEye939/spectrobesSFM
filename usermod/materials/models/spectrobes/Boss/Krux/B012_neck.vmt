@@ -1,0 +1,4 @@
+VertexLitGeneric {
+	$basetexture "models/spectrobes/Boss/Krux/BATTLE_KRUX_FACE_B"
+	$model 1
+}
