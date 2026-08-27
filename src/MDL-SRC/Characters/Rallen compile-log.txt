@@ -1,0 +1,81 @@
+// Created by Crowbar 0.74
+
+  Compiling "Rallen.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      WARNING: Environment Variable VMOD Spectrobes and -game C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\characters\"
+      gamedir: "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\"
+      g_path:  "Rallen.qc"
+      Building binary model files...
+      Working on "Rallen.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\characters\Rallen.dmx
+      Processing LOD for material: phong17
+      Processing LOD for material: HAIR_B1
+      Processing LOD for material: HAIR_A
+      Processing LOD for material: phong16
+      Processing LOD for material: phong14
+      Processing LOD for material: FACE
+      Processing LOD for material: phong10
+      Processing LOD for material: phong5
+      Processing LOD for material: phong11
+      Processing LOD for material: EYE
+      Processing LOD for material: BODY
+      Processing LOD for material: phong15
+      ---------------------
+      writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Characters/Rallen.mdl:
+      bones        28700 bytes (105)
+         animation       x       y       ips    angle
+      animations     116 bytes (1 anims) (1 frames) [0:00]
+      sequences      636 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       800 bytes
+      keyvalues        0 bytes
+      bone transforms    14344 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        47228
+      ---------------------
+      writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Characters/Rallen.vvd:
+      vertices    266880 bytes (5560 vertices)
+      tangents     88960 bytes (5560 vertices)
+      total       355904 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Characters/Rallen.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:           108 bytes
+      strip groups:     396 bytes
+      strips:           420 bytes
+      verts:          50040 bytes
+      indices:        43686 bytes
+      bone changes:       8 bytes
+      everything:     94722 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Characters/Rallen.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:           108 bytes
+      strip groups:     396 bytes
+      strips:           665 bytes
+      verts:          51732 bytes
+      indices:        43686 bytes
+      bone changes:    1600 bytes
+      everything:     98251 bytes
+      ---------------------
+      Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/Characters/Rallen.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:           108 bytes
+      strip groups:     396 bytes
+      strips:           420 bytes
+      verts:          50040 bytes
+      indices:        43686 bytes
+      bone changes:    1376 bytes
+      everything:     96090 bytes
+      
+      Completed "Rallen.qc"
+  ... Compiling "Rallen.qc" finished. Check above for any errors.

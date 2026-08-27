@@ -1,0 +1,4 @@
+VertexLitGeneric {
+    $basetexture "models/spectrobes/Characters/Rallen/white256_02"
+    $model 1
+}

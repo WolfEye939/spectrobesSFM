@@ -1,0 +1,4 @@
+VertexLitGeneric {
+    $basetexture "models/spectrobes/Characters/Rallen/C000_hair_a"
+    $model 1
+}
