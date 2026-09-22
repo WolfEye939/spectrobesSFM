@@ -3,9 +3,4 @@ $cdmaterials "models/spectrobes/creatures/totsuzen"
 
 $body Totsuzen "Totsuzen.dmx"
 
-$animation REF "Totsuzen.dmx"
-
-$sequence Reference {
-    "REF"
-    Activity "ACT_IDLE" 1
-}
+$sequence REF "Totsuzen"

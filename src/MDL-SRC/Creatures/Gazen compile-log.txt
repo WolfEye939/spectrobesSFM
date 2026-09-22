@@ -1,6 +1,6 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\Gazen.qc" ...
+  Compiling "Gazen.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
@@ -26,7 +26,7 @@
       bone transforms     5368 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        17604
+      total        17588
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/gazen.vvd:
       vertices    202128 bytes (4211 vertices)
@@ -70,4 +70,4 @@
       everything:     69963 bytes
       
       Completed "Gazen.qc"
-  ... Compiling ".\Gazen.qc" finished. Check above for any errors.
+  ... Compiling "Gazen.qc" finished. Check above for any errors.

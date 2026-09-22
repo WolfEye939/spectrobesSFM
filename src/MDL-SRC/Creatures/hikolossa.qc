@@ -1,28 +1,13 @@
-// Created by Crowbar 0.67
-
 $ModelName "spectrobes/creatures/Hikolossa.mdl"
-
-$body "body" "hikolossa_body.smd"
-
-
-$BodyGroup "rotors"
-{
-	studio "hikolossa_rotors.smd"
-	blank
-}
-
-
-$SurfaceProp "default"
-
-$Contents "solid"
-
-$IllumPosition 0 -4.105 9.474
-
 $CDMaterials "models\spectrobes\creatures\Hikolossa\"
 
-$CBox 0 0 0 0 0 0
+$body "body" "hikolossa.dmx"
+$body "rotors" "Hikolossa_rotor.dmx"
 
-$BBox -12.276 -21.268 -17.913 20.487 21.268 36.861
+$sequence idle "hikolossa.dmx"
 
-
-$sequence "idle" "hikolossa_body.smd"
+$texturegroup "skins"
+{
+    { "s002c_01" "s002c_02" "s002c_03" "s002c_04" "s002c_05" }
+    { "s002c_01_b" "s002c_02_b" "s002c_03_b" "s002c_04_b" "s002c_05_b" }
+}

@@ -1,12 +1,12 @@
 // Created by Crowbar 0.74
 
-  Compiling "Hikodrake.qc" ...
+  Compiling "hikodrake.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
-      WARNING: Environment Variable VMOD general and -game D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
-      g_path:  "Hikodrake.qc"
+      g_path:  "hikodrake.qc"
       Building binary model files...
-      Working on "Hikodrake.qc"
+      Working on "hikodrake.qc"
       DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Hikodrake.dmx
       Processing LOD for material: S002B_3
       Processing LOD for material: S002B_4
@@ -71,5 +71,5 @@
       bone changes:     856 bytes
       everything:    106184 bytes
       
-      Completed "Hikodrake.qc"
-  ... Compiling "Hikodrake.qc" finished. Check above for any errors.
+      Completed "hikodrake.qc"
+  ... Compiling "hikodrake.qc" finished. Check above for any errors.

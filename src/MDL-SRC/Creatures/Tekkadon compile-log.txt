@@ -1,6 +1,6 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\Tekkadon.qc" ...
+  Compiling "Tekkadon.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
@@ -8,8 +8,6 @@
       Building binary model files...
       Working on "Tekkadon.qc"
       DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Tekkadon.dmx
-      WARNING: DmeMesh[S000B]: Non-Unit Length Normal [889] < 0.000000 0.000000 0.000000 >
-      WARNING: DmeMesh[S000B]: Non-Unit Length Normal Repeated 3 Times
       Processing LOD for material: metal_01
       Processing LOD for material: yaiba
       Processing LOD for material: hear
@@ -29,7 +27,7 @@
       bone transforms     4144 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        14584
+      total        14572
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/tekkadon.vvd:
       vertices    242688 bytes (5056 vertices)
@@ -73,9 +71,4 @@
       everything:     76857 bytes
       
       Completed "Tekkadon.qc"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\tekkadon.dx80.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\tekkadon.dx90.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\tekkadon.mdl" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\tekkadon.sw.vtx" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models\spectrobes\creatures\tekkadon.vvd" to "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models\spectrobes\creatures"
-  ... Compiling ".\Tekkadon.qc" finished. Check above for any errors.
+  ... Compiling "Tekkadon.qc" finished. Check above for any errors.

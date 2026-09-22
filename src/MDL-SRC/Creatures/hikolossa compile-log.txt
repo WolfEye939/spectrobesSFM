@@ -1,0 +1,80 @@
+// Created by Crowbar 0.74
+
+  Compiling "hikolossa.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "hikolossa.qc"
+      Building binary model files...
+      Working on "hikolossa.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\hikolossa.dmx
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Hikolossa_rotor.dmx
+      Processing LOD for material: S002C_01
+      Processing LOD for material: S002C_05
+      Processing LOD for material: S002C_02
+      Processing LOD for material: S002C_03
+      Processing LOD for material: S002C_04
+      Processing LOD for material: S002C_07
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Hikolossa.mdl:
+      bones        17044 bytes (61)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      460 bytes (1 seq) 
+      ik/pose        328 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       756 bytes
+      keyvalues        0 bytes
+      bone transforms     8360 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        28636
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Hikolossa.vvd:
+      vertices    313728 bytes (6536 vertices)
+      vertices     27648 bytes (576 vertices)
+      tangents    104576 bytes (6536 vertices)
+      tangents      9216 bytes (576 vertices)
+      total       455232 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Hikolossa.sw.vtx":
+      body parts:        16 bytes
+      models:            40 bytes
+      model LODs:        24 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          64008 bytes
+      indices:        39336 bytes
+      bone changes:       8 bytes
+      everything:    103906 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Hikolossa.dx80.vtx":
+      body parts:        16 bytes
+      models:            40 bytes
+      model LODs:        24 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           385 bytes
+      verts:          65106 bytes
+      indices:        39336 bytes
+      bone changes:    1104 bytes
+      everything:    106275 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Hikolossa.dx90.vtx":
+      body parts:        16 bytes
+      models:            40 bytes
+      model LODs:        24 bytes
+      meshes:            54 bytes
+      strip groups:     198 bytes
+      strips:           210 bytes
+      verts:          64008 bytes
+      indices:        39336 bytes
+      bone changes:     920 bytes
+      everything:    104818 bytes
+      
+      Completed "hikolossa.qc"
+  ... Compiling "hikolossa.qc" finished. Check above for any errors.

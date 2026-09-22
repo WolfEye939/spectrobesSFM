@@ -1,6 +1,6 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\Totsuzen.qc" ...
+  Compiling "Totsuzen.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
@@ -27,7 +27,7 @@
       bone transforms     6320 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        21548
+      total        21532
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Totsuzen.vvd:
       vertices    278064 bytes (5793 vertices)
@@ -71,4 +71,4 @@
       everything:     92182 bytes
       
       Completed "Totsuzen.qc"
-  ... Compiling ".\Totsuzen.qc" finished. Check above for any errors.
+  ... Compiling "Totsuzen.qc" finished. Check above for any errors.

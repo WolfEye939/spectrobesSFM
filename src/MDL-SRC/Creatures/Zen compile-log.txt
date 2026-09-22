@@ -1,6 +1,6 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\Zen.qc" ...
+  Compiling "Zen.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
@@ -24,7 +24,7 @@
       bone transforms     3736 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        12144
+      total        12132
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/zen.vvd:
       vertices    117120 bytes (2440 vertices)
@@ -68,4 +68,4 @@
       everything:     43022 bytes
       
       Completed "Zen.qc"
-  ... Compiling ".\Zen.qc" finished. Check above for any errors.
+  ... Compiling "Zen.qc" finished. Check above for any errors.

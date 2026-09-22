@@ -1,12 +1,12 @@
 // Created by Crowbar 0.74
 
-  Compiling "Hiko.qc" ...
+  Compiling "hiko.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
-      WARNING: Environment Variable VMOD general and -game D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes do not end with the same valueqdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
-      g_path:  "Hiko.qc"
+      g_path:  "hiko.qc"
       Building binary model files...
-      Working on "Hiko.qc"
+      Working on "hiko.qc"
       DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Hiko.dmx
       Processing LOD for material: S002A_2
       Processing LOD for material: S002A_1
@@ -67,5 +67,5 @@
       bone changes:     256 bytes
       everything:     49578 bytes
       
-      Completed "Hiko.qc"
-  ... Compiling "Hiko.qc" finished. Check above for any errors.
+      Completed "hiko.qc"
+  ... Compiling "hiko.qc" finished. Check above for any errors.

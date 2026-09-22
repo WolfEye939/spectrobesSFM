@@ -1,6 +1,6 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\Tekkadorax.qc" ...
+  Compiling "Tekkadorax.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
@@ -28,7 +28,7 @@
       bone transforms     5776 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        20096
+      total        20084
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Tekkadorax.vvd:
       vertices    328608 bytes (6846 vertices)
@@ -72,4 +72,4 @@
       everything:     97872 bytes
       
       Completed "Tekkadorax.qc"
-  ... Compiling ".\Tekkadorax.qc" finished. Check above for any errors.
+  ... Compiling "Tekkadorax.qc" finished. Check above for any errors.
