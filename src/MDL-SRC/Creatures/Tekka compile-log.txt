@@ -1,6 +1,6 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\Tekka.qc" ...
+  Compiling "Tekka.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
@@ -94,4 +94,4 @@
       everything:     62590 bytes
       
       Completed "Tekka.qc"
-  ... Compiling ".\Tekka.qc" finished. Check above for any errors.
+  ... Compiling "Tekka.qc" finished. Check above for any errors.
