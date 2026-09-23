@@ -1,0 +1,70 @@
+// Created by Crowbar 0.74
+
+  Compiling "Leozar.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Leozar.qc"
+      Building binary model files...
+      Working on "Leozar.qc"
+      SMD MODEL Leozar.smd
+      Processing LOD for material: Leozar
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/leozar.mdl:
+      bones        18168 bytes (64)
+         animation       x       y       ips    angle
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      472 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       140 bytes
+      keyvalues        0 bytes
+      bone transforms     8768 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        28880
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/leozar.vvd:
+      vertices    267024 bytes (5563 vertices)
+      tangents     89008 bytes (5563 vertices)
+      total       356096 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/leozar.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          50067 bytes
+      indices:        32160 bytes
+      bone changes:       8 bytes
+      everything:     82376 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/leozar.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:           210 bytes
+      verts:          51327 bytes
+      indices:        32160 bytes
+      bone changes:     664 bytes
+      everything:     84467 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/leozar.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          50067 bytes
+      indices:        32160 bytes
+      bone changes:     432 bytes
+      everything:     82800 bytes
+      
+      Completed "Leozar.qc"
+  ... Compiling "Leozar.qc" finished. Check above for any errors.

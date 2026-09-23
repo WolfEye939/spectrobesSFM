@@ -1,0 +1,70 @@
+// Created by Crowbar 0.74
+
+  Compiling "Leopuba.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Leopuba.qc"
+      Building binary model files...
+      Working on "Leopuba.qc"
+      SMD MODEL leopuba.smd
+      Processing LOD for material: leopuba
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leopuba.mdl:
+      bones        12768 bytes (46)
+         animation       x       y       ips    angle
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      400 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       140 bytes
+      keyvalues        0 bytes
+      bone transforms     6320 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        20576
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leopuba.vvd:
+      vertices    261936 bytes (5457 vertices)
+      tangents     87312 bytes (5457 vertices)
+      total       349312 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leopuba.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          49113 bytes
+      indices:        32214 bytes
+      bone changes:       8 bytes
+      everything:     81476 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leopuba.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:           105 bytes
+      verts:          49815 bytes
+      indices:        32214 bytes
+      bone changes:     328 bytes
+      everything:     82568 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leopuba.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      33 bytes
+      strips:            35 bytes
+      verts:          49113 bytes
+      indices:        32214 bytes
+      bone changes:     256 bytes
+      everything:     81724 bytes
+      
+      Completed "Leopuba.qc"
+  ... Compiling "Leopuba.qc" finished. Check above for any errors.

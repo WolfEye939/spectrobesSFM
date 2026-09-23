@@ -1,0 +1,79 @@
+// Created by Crowbar 0.74
+
+  Compiling "Leo.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
+      g_path:  "Leo.qc"
+      Building binary model files...
+      Working on "Leo.qc"
+      SMD MODEL Leo.smd
+      SMD MODEL leo_Lids.smd
+      Processing LOD for material: Leo2A
+      Processing LOD for material: Leo1A
+      Processing LOD for material: Leo2A
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leo.mdl:
+      bones         7108 bytes (24)
+         animation       x       y       ips    angle
+      animations     124 bytes (1 anims) (1 frames) [0:00]
+      sequences      312 bytes (1 seq) 
+      ik/pose        476 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
+      keyvalues        0 bytes
+      bone transforms     3328 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        12296
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leo.vvd:
+      vertices     92160 bytes (1920 vertices)
+      vertices      1920 bytes (40 vertices)
+      tangents     30720 bytes (1920 vertices)
+      tangents       640 bytes (40 vertices)
+      total       125504 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leo.sw.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          17640 bytes
+      indices:        18408 bytes
+      bone changes:       8 bytes
+      everything:     36399 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leo.dx80.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          17640 bytes
+      indices:        18408 bytes
+      bone changes:     216 bytes
+      everything:     36607 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Leo.dx90.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      99 bytes
+      strips:           105 bytes
+      verts:          17640 bytes
+      indices:        18408 bytes
+      bone changes:     216 bytes
+      everything:     36607 bytes
+      
+      Completed "Leo.qc"
+  ... Compiling "Leo.qc" finished. Check above for any errors.
