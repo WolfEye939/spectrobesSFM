@@ -1,6 +1,6 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\Torgazar.qc" ...
+  Compiling "Torgazar.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
@@ -27,12 +27,12 @@
       bone transforms     4688 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        16464
+      total        16452
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/Torgazar.vvd:
-      vertices    247392 bytes (5154 vertices)
-      tangents     82464 bytes (5154 vertices)
-      total       329920 bytes
+      vertices    247200 bytes (5150 vertices)
+      tangents     82400 bytes (5150 vertices)
+      total       329664 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/Torgazar.sw.vtx":
       body parts:         8 bytes
@@ -41,10 +41,10 @@
       meshes:            45 bytes
       strip groups:     165 bytes
       strips:           175 bytes
-      verts:          46386 bytes
+      verts:          46350 bytes
       indices:        26730 bytes
       bone changes:       8 bytes
-      everything:     73573 bytes
+      everything:     73537 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/Torgazar.dx80.vtx":
       body parts:         8 bytes
@@ -53,10 +53,10 @@
       meshes:            45 bytes
       strip groups:     165 bytes
       strips:           175 bytes
-      verts:          46386 bytes
+      verts:          46350 bytes
       indices:        26730 bytes
       bone changes:     448 bytes
-      everything:     74013 bytes
+      everything:     73977 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/Torgazar.dx90.vtx":
       body parts:         8 bytes
@@ -65,10 +65,10 @@
       meshes:            45 bytes
       strip groups:     165 bytes
       strips:           175 bytes
-      verts:          46386 bytes
+      verts:          46350 bytes
       indices:        26730 bytes
       bone changes:     448 bytes
-      everything:     74013 bytes
+      everything:     73977 bytes
       
       Completed "Torgazar.qc"
-  ... Compiling ".\Torgazar.qc" finished. Check above for any errors.
+  ... Compiling "Torgazar.qc" finished. Check above for any errors.

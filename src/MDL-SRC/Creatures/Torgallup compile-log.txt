@@ -1,6 +1,6 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\Torgallup.qc" ...
+  Compiling "Torgallup.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
@@ -28,7 +28,7 @@
       bone transforms     3736 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        13816
+      total        13800
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/Torgallup.vvd:
       vertices    275328 bytes (5736 vertices)
@@ -72,4 +72,4 @@
       everything:     87006 bytes
       
       Completed "Torgallup.qc"
-  ... Compiling ".\Torgallup.qc" finished. Check above for any errors.
+  ... Compiling "Torgallup.qc" finished. Check above for any errors.

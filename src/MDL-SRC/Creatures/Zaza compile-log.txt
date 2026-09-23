@@ -1,6 +1,6 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\Zaza.qc" ...
+  Compiling "Zaza.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
@@ -8,7 +8,8 @@
       Building binary model files...
       Working on "Zaza.qc"
       DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Zaza.dmx
-      Processing LOD for material: Zaza
+      Processing LOD for material: Tail
+      Processing LOD for material: Body
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/zaza.mdl:
       bones         8016 bytes (31)
@@ -18,12 +19,12 @@
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures        76 bytes
+      textures       140 bytes
       keyvalues        0 bytes
       bone transforms     4280 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        13520
+      total        13696
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/zaza.vvd:
       vertices    127104 bytes (2648 vertices)
@@ -34,37 +35,37 @@
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            35 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
       verts:          23832 bytes
       indices:        22812 bytes
       bone changes:       8 bytes
-      everything:     46793 bytes
+      everything:     46870 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/zaza.dx80.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            70 bytes
-      verts:          24336 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:           105 bytes
+      verts:          24183 bytes
       indices:        22812 bytes
-      bone changes:     216 bytes
-      everything:     47540 bytes
+      bone changes:     248 bytes
+      everything:     47496 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/Spectrobes/creatures/zaza.dx90.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            35 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
       verts:          23832 bytes
       indices:        22812 bytes
-      bone changes:     200 bytes
-      everything:     46985 bytes
+      bone changes:     224 bytes
+      everything:     47086 bytes
       
       Completed "Zaza.qc"
-  ... Compiling ".\Zaza.qc" finished. Check above for any errors.
+  ... Compiling "Zaza.qc" finished. Check above for any errors.

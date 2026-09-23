@@ -15,9 +15,9 @@
       Processing LOD for material: S004C_04
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazanero.mdl:
-      bones        13760 bytes (49)
+      bones        13080 bytes (49)
          animation       x       y       ips    angle
-      animations     128 bytes (1 anims) (1 frames) [0:00]
+      animations     120 bytes (1 anims) (1 frames) [0:00]
       sequences      412 bytes (1 seq) 
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
@@ -27,7 +27,7 @@
       bone transforms     6728 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        22732
+      total        22032
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazanero.vvd:
       vertices    252912 bytes (5269 vertices)

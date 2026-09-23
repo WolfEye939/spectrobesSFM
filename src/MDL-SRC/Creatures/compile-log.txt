@@ -607,63 +607,81 @@
       Building binary model files...
       Working on "komainu.qc"
       SMD MODEL Komainu.smd
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Komainu_pirate.dmx
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Komainu_futball.dmx
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Komainu_Patchwork.dmx
       Processing LOD for material: Komainu
+      Processing LOD for material: Pirate
+      Processing LOD for material: FOOTBALL
+      Processing LOD for material: PATCHWORK
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Komainu.mdl:
-      bones         8480 bytes (30)
+      bones         9336 bytes (33)
          animation       x       y       ips    angle
-      animations     128 bytes (1 anims) (1 frames) [0:00]
-      sequences      336 bytes (1 seq) 
-      ik/pose        164 bytes
+      animations     120 bytes (1 anims) (1 frames) [0:00]
+      sequences      348 bytes (1 seq) 
+      ik/pose        608 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures       216 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       428 bytes
       keyvalues        0 bytes
-      bone transforms     4144 bytes
+      bone transforms     4552 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        13952
+      total        16288
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Komainu.vvd:
-      vertices    106128 bytes (2211 vertices)
-      tangents     35376 bytes (2211 vertices)
-      total       141568 bytes
+      vertices    105888 bytes (2206 vertices)
+      vertices     80400 bytes (1675 vertices)
+      vertices     81936 bytes (1707 vertices)
+      vertices     78192 bytes (1629 vertices)
+      tangents     35296 bytes (2206 vertices)
+      tangents     26800 bytes (1675 vertices)
+      tangents     27312 bytes (1707 vertices)
+      tangents     26064 bytes (1629 vertices)
+      total       461952 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Komainu.sw.vtx":
       body parts:         8 bytes
-      models:            20 bytes
-      model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            35 bytes
-      verts:          19899 bytes
-      indices:        19392 bytes
+      models:            80 bytes
+      model LODs:        48 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          64953 bytes
+      indices:        67716 bytes
       bone changes:       8 bytes
-      everything:     39440 bytes
+      everything:    133109 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Komainu.dx80.vtx":
       body parts:         8 bytes
-      models:            20 bytes
-      model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            70 bytes
-      verts:          20052 bytes
-      indices:        19392 bytes
-      bone changes:     200 bytes
-      everything:     39820 bytes
+      models:            80 bytes
+      model LODs:        48 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           280 bytes
+      verts:          66096 bytes
+      indices:        67716 bytes
+      bone changes:     808 bytes
+      everything:    135192 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Komainu.dx90.vtx":
       body parts:         8 bytes
-      models:            20 bytes
-      model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            35 bytes
-      verts:          19899 bytes
-      indices:        19392 bytes
-      bone changes:     160 bytes
-      everything:     39592 bytes
+      models:            80 bytes
+      model LODs:        48 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          64953 bytes
+      indices:        67716 bytes
+      bone changes:     640 bytes
+      everything:    133741 bytes
       
       Completed "komainu.qc"
   ... Compiling "komainu.qc" finished. Check above for any errors.
@@ -2084,12 +2102,12 @@
       bone transforms     1288 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total         5244
+      total         5232
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/torga.vvd:
-      vertices    138192 bytes (2879 vertices)
-      tangents     46064 bytes (2879 vertices)
-      total       184320 bytes
+      vertices    138288 bytes (2881 vertices)
+      tangents     46096 bytes (2881 vertices)
+      total       184448 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/torga.sw.vtx":
       body parts:         8 bytes
@@ -2098,10 +2116,10 @@
       meshes:            18 bytes
       strip groups:      66 bytes
       strips:            70 bytes
-      verts:          25911 bytes
+      verts:          25929 bytes
       indices:        19560 bytes
       bone changes:       8 bytes
-      everything:     45697 bytes
+      everything:     45715 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/torga.dx80.vtx":
       body parts:         8 bytes
@@ -2110,10 +2128,10 @@
       meshes:            18 bytes
       strip groups:      66 bytes
       strips:            70 bytes
-      verts:          25911 bytes
+      verts:          25929 bytes
       indices:        19560 bytes
       bone changes:     104 bytes
-      everything:     45793 bytes
+      everything:     45811 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/torga.dx90.vtx":
       body parts:         8 bytes
@@ -2122,10 +2140,10 @@
       meshes:            18 bytes
       strip groups:      66 bytes
       strips:            70 bytes
-      verts:          25911 bytes
+      verts:          25929 bytes
       indices:        19560 bytes
       bone changes:     104 bytes
-      everything:     45793 bytes
+      everything:     45811 bytes
       
       Completed "Torga.qc"
   ... Compiling "Torga.qc" finished. Check above for any errors.
@@ -2158,7 +2176,7 @@
       bone transforms     3736 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        13816
+      total        13800
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/Torgallup.vvd:
       vertices    275328 bytes (5736 vertices)
@@ -2231,12 +2249,12 @@
       bone transforms     4688 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        16464
+      total        16452
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/Torgazar.vvd:
-      vertices    247392 bytes (5154 vertices)
-      tangents     82464 bytes (5154 vertices)
-      total       329920 bytes
+      vertices    247200 bytes (5150 vertices)
+      tangents     82400 bytes (5150 vertices)
+      total       329664 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/Torgazar.sw.vtx":
       body parts:         8 bytes
@@ -2245,10 +2263,10 @@
       meshes:            45 bytes
       strip groups:     165 bytes
       strips:           175 bytes
-      verts:          46386 bytes
+      verts:          46350 bytes
       indices:        26730 bytes
       bone changes:       8 bytes
-      everything:     73573 bytes
+      everything:     73537 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/Torgazar.dx80.vtx":
       body parts:         8 bytes
@@ -2257,10 +2275,10 @@
       meshes:            45 bytes
       strip groups:     165 bytes
       strips:           175 bytes
-      verts:          46386 bytes
+      verts:          46350 bytes
       indices:        26730 bytes
       bone changes:     448 bytes
-      everything:     74013 bytes
+      everything:     73977 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/Torgazar.dx90.vtx":
       body parts:         8 bytes
@@ -2269,10 +2287,10 @@
       meshes:            45 bytes
       strip groups:     165 bytes
       strips:           175 bytes
-      verts:          46386 bytes
+      verts:          46350 bytes
       indices:        26730 bytes
       bone changes:     448 bytes
-      everything:     74013 bytes
+      everything:     73977 bytes
       
       Completed "Torgazar.qc"
   ... Compiling "Torgazar.qc" finished. Check above for any errors.
@@ -2573,7 +2591,8 @@
       Building binary model files...
       Working on "Zaza.qc"
       DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Zaza.dmx
-      Processing LOD for material: Zaza
+      Processing LOD for material: Tail
+      Processing LOD for material: Body
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/zaza.mdl:
       bones         8016 bytes (31)
@@ -2583,12 +2602,12 @@
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures        76 bytes
+      textures       140 bytes
       keyvalues        0 bytes
       bone transforms     4280 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        13520
+      total        13696
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/zaza.vvd:
       vertices    127104 bytes (2648 vertices)
@@ -2599,37 +2618,37 @@
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            35 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
       verts:          23832 bytes
       indices:        22812 bytes
       bone changes:       8 bytes
-      everything:     46793 bytes
+      everything:     46870 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/zaza.dx80.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            70 bytes
-      verts:          24336 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:           105 bytes
+      verts:          24183 bytes
       indices:        22812 bytes
-      bone changes:     216 bytes
-      everything:     47540 bytes
+      bone changes:     248 bytes
+      everything:     47496 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/Spectrobes/creatures/zaza.dx90.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            35 bytes
+      meshes:            18 bytes
+      strip groups:      66 bytes
+      strips:            70 bytes
       verts:          23832 bytes
       indices:        22812 bytes
-      bone changes:     200 bytes
-      everything:     46985 bytes
+      bone changes:     224 bytes
+      everything:     47086 bytes
       
       Completed "Zaza.qc"
   ... Compiling "Zaza.qc" finished. Check above for any errors.
@@ -2641,64 +2660,69 @@
       g_path:  "zazane.qc"
       Building binary model files...
       Working on "zazane.qc"
-      SMD MODEL Zazane.smd
-      Processing LOD for material: Zazane
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Zazane.dmx
+      WARNING: DmeMesh[S004B.001]: Non-Unit Length Normal [837] < 0.000000 0.000000 0.000000 >
+      WARNING: DmeMesh[S004B.001]: Non-Unit Length Normal Repeated 6 Times
+      Processing LOD for material: S004B_a
+      Processing LOD for material: S004B_c
+      Processing LOD for material: S004B_d
+      Processing LOD for material: S004B_b
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Zazane.mdl:
-      bones        16472 bytes (59)
+      bones        15600 bytes (60)
          animation       x       y       ips    angle
-      animations     120 bytes (1 anims) (1 frames) [0:00]
-      sequences      452 bytes (1 seq) 
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      456 bytes (1 seq) 
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures        72 bytes
+      textures       272 bytes
       keyvalues        0 bytes
-      bone transforms     8088 bytes
+      bone transforms     8224 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        26156
+      total        26016
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Zazane.vvd:
-      vertices    202560 bytes (4220 vertices)
-      tangents     67520 bytes (4220 vertices)
-      total       270144 bytes
+      vertices    204192 bytes (4254 vertices)
+      tangents     68064 bytes (4254 vertices)
+      total       272320 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Zazane.sw.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            35 bytes
-      verts:          37980 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          38286 bytes
       indices:        32970 bytes
       bone changes:       8 bytes
-      everything:     71099 bytes
+      everything:     71636 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Zazane.dx80.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:           140 bytes
-      verts:          39177 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           245 bytes
+      verts:          38502 bytes
       indices:        32970 bytes
-      bone changes:     448 bytes
-      everything:     72841 bytes
+      bone changes:     576 bytes
+      everything:     72525 bytes
       ---------------------
       Generating optimized mesh "C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Zazane.dx90.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            35 bytes
-      verts:          37980 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          38286 bytes
       indices:        32970 bytes
-      bone changes:     376 bytes
-      everything:     71467 bytes
+      bone changes:     528 bytes
+      everything:     72156 bytes
       
       Completed "zazane.qc"
   ... Compiling "zazane.qc" finished. Check above for any errors.
@@ -2718,9 +2742,9 @@
       Processing LOD for material: S004C_04
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Zazanero.mdl:
-      bones        13760 bytes (49)
+      bones        13080 bytes (49)
          animation       x       y       ips    angle
-      animations     128 bytes (1 anims) (1 frames) [0:00]
+      animations     120 bytes (1 anims) (1 frames) [0:00]
       sequences      412 bytes (1 seq) 
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
@@ -2730,7 +2754,7 @@
       bone transforms     6728 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        22732
+      total        22032
       ---------------------
       writing C:\Users\John Reich\Documents\GitHub\spectrobesSFM\usermod\models/spectrobes/creatures/Zazanero.vvd:
       vertices    252912 bytes (5269 vertices)

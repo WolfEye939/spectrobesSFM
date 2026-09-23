@@ -1,28 +1,29 @@
-// Created by Crowbar 0.67
-
 $ModelName "spectrobes/creatures/Komainu.mdl"
-
-$body "body" "Komainu.smd"
-
-
-$SurfaceProp "default"
-
-$Contents "solid"
-
-$IllumPosition 0 2.479 6.835
-
 $CDMaterials "models\spectrobes\creatures\Komainu\"
 
-$TextureGroup "skinfamilies"
+$bodygroup body 
 {
-	{ "Komainu" }
-	{ "Gold"    }
-	{ "Silver"  }
+	studio "Komainu.smd"
+	studio "Komainu_pirate.dmx"
+	studio "Komainu_futball.dmx"
+	studio "Komainu_Patchwork.dmx"
 }
 
-$CBox 0 0 0 0 0 0
-
-$BBox -10.833 -7.44 0 5.874 7.44 13.67
 
 
-$sequence "idle" "Komainu.smd"
+$sequence REF "Komainu.smd"
+
+$TextureGroup "Normal" 
+{
+	{ "Komainu" }
+	{ "Gold" 	}
+	{ "Silver"	}
+}
+/*
+$texturegroup "Promo"
+{
+	{ "Pirate" 	  }
+	{ "FutBall"   }
+	{ "Patchwork" }
+}
+*/

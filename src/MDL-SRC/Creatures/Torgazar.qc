@@ -3,9 +3,4 @@ $cdmaterials "models/spectrobes/creatures/torgazar"
 
 $body Torgazar "Torgazar.dmx"
 
-$animation REF "Torgazar.dmx"
-
-$sequence Reference {
-    "REF"
-    Activity "ACT_IDLE" 1
-}
+$sequence REF "Torgazar"

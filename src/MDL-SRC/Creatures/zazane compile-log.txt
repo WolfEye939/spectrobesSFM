@@ -1,70 +1,75 @@
-// Created by Crowbar 0.67
+// Created by Crowbar 0.74
 
-  Compiling ".\zazane.qc" ...
+  Compiling "Zazane.qc" ...
     Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\"
       gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\"
-      g_path:  "zazane.qc"
+      g_path:  "Zazane.qc"
       Building binary model files...
-      Working on "zazane.qc"
-      SMD MODEL Zazane.smd
-      Processing LOD for material: Zazane
+      Working on "Zazane.qc"
+      DMX Model c:\users\john reich\documents\github\spectrobessfm\src\mdl-src\creatures\Zazane.dmx
+      WARNING: DmeMesh[S004B.001]: Non-Unit Length Normal [837] < 0.000000 0.000000 0.000000 >
+      WARNING: DmeMesh[S004B.001]: Non-Unit Length Normal Repeated 6 Times
+      Processing LOD for material: S004B_a
+      Processing LOD for material: S004B_c
+      Processing LOD for material: S004B_d
+      Processing LOD for material: S004B_b
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.mdl:
-      bones        16472 bytes (59)
+      bones        15600 bytes (60)
          animation       x       y       ips    angle
-      animations     120 bytes (1 anims) (1 frames) [0:00]
-      sequences      452 bytes (1 seq) 
+      animations     128 bytes (1 anims) (1 frames) [0:00]
+      sequences      456 bytes (1 seq) 
       ik/pose        164 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures        72 bytes
+      textures       272 bytes
       keyvalues        0 bytes
-      bone transforms     8088 bytes
+      bone transforms     8224 bytes
       bone flex driver       0 bytes
       collision        0 bytes
-      total        26156
+      total        26016
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.vvd:
-      vertices    202560 bytes (4220 vertices)
-      tangents     67520 bytes (4220 vertices)
-      total       270144 bytes
+      vertices    204192 bytes (4254 vertices)
+      tangents     68064 bytes (4254 vertices)
+      total       272320 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.sw.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            35 bytes
-      verts:          37980 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          38286 bytes
       indices:        32970 bytes
       bone changes:       8 bytes
-      everything:     71099 bytes
+      everything:     71636 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.dx80.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:           140 bytes
-      verts:          39177 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           245 bytes
+      verts:          38502 bytes
       indices:        32970 bytes
-      bone changes:     448 bytes
-      everything:     72841 bytes
+      bone changes:     576 bytes
+      everything:     72525 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\Spectrobes\models/spectrobes/creatures/Zazane.dx90.vtx":
       body parts:         8 bytes
       models:            20 bytes
       model LODs:        12 bytes
-      meshes:             9 bytes
-      strip groups:      33 bytes
-      strips:            35 bytes
-      verts:          37980 bytes
+      meshes:            36 bytes
+      strip groups:     132 bytes
+      strips:           140 bytes
+      verts:          38286 bytes
       indices:        32970 bytes
-      bone changes:     376 bytes
-      everything:     71467 bytes
+      bone changes:     528 bytes
+      everything:     72156 bytes
       
-      Completed "zazane.qc"
-  ... Compiling ".\zazane.qc" finished. Check above for any errors.
+      Completed "Zazane.qc"
+  ... Compiling "Zazane.qc" finished. Check above for any errors.
